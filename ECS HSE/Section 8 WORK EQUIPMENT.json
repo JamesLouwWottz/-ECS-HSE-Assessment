@@ -1,0 +1,218 @@
+[
+    {
+        "question": "What do the letters SWL stand for?",
+        "options": [
+            {"label": "A", "text": "Safe working level", "is_correct": false},
+            {"label": "B", "text": "Satisfactory weight limit", "is_correct": false},
+            {"label": "C", "text": "Satisfactory working limit", "is_correct": false},
+            {"label": "D", "text": "Safe working load", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Who should operate plant and equipment on site?",
+        "options": [
+            {"label": "A", "text": "Only people over 18 years of age", "is_correct": false},
+            {"label": "B", "text": "Trained and authorised employees only", "is_correct": true},
+            {"label": "C", "text": "An employee holding a full driving licence", "is_correct": false},
+            {"label": "D", "text": "Any experienced employee", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What hazard is created when the head of a cold chisel mushrooms?",
+        "options": [
+            {"label": "A", "text": "Reduced striking area", "is_correct": false},
+            {"label": "B", "text": "Softens the impact", "is_correct": false},
+            {"label": "C", "text": "Flying steel splinters", "is_correct": true},
+            {"label": "D", "text": "Damage to the hammer head", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Any damaged equipment must be:",
+        "options": [
+            {"label": "A", "text": "Reported to your supervisor", "is_correct": true},
+            {"label": "B", "text": "Thrown away immediately", "is_correct": false},
+            {"label": "C", "text": "Labelled as damaged before use", "is_correct": false},
+            {"label": "D", "text": "Locked up so no one can use it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The electric drill you are about to use has a faulty on/off switch. What action should you take?",
+        "options": [
+            {"label": "A", "text": "Try and fix the fault", "is_correct": false},
+            {"label": "B", "text": "Find another machine and carry on working", "is_correct": false},
+            {"label": "C", "text": "Remove it from use and tell your supervisor", "is_correct": true},
+            {"label": "D", "text": "Tape the switch on to keep it running and carry on working", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The power hand tool you are about to use has burn marks visible on the cable. What should you do?",
+        "options": [
+            {"label": "A", "text": "Tape over the affected area and continue", "is_correct": false},
+            {"label": "B", "text": "Tell your supervisor about the defect and do not use the tool", "is_correct": true},
+            {"label": "C", "text": "Obtain another machine and carry on, but don’t tell anyone", "is_correct": false},
+            {"label": "D", "text": "Carry on and get the job done", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Your supervisor asks you to use a powered hand-tool which has a rotating blade. You notice that the guard is missing from the blade. What do you do?",
+        "options": [
+            {"label": "A", "text": "Use the tool anyway, you haven’t had an accident with it before", "is_correct": false},
+            {"label": "B", "text": "Remove it from use and tell your supervisor", "is_correct": true},
+            {"label": "C", "text": "Try to make an improvised guard yourself", "is_correct": false},
+            {"label": "D", "text": "Contact the manufacturer of the tool", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Hand and power tools must be:",
+        "options": [
+            {"label": "A", "text": "The best that you can buy", "is_correct": false},
+            {"label": "B", "text": "Made available when needed", "is_correct": false},
+            {"label": "C", "text": "In the company’s colours", "is_correct": false},
+            {"label": "D", "text": "Suitable for the task and regularly inspected", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When should visual checks of portable hand-held equipment be made by the user?",
+        "options": [
+            {"label": "A", "text": "When a replacement is needed", "is_correct": false},
+            {"label": "B", "text": "Monthly", "is_correct": false},
+            {"label": "C", "text": "Weekly", "is_correct": false},
+            {"label": "D", "text": "Each time it is used", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What precaution should you take before adjusting an electrical tool?",
+        "options": [
+            {"label": "A", "text": "Check the lead is not twisted or knotted", "is_correct": false},
+            {"label": "B", "text": "Wear safety footwear with steel toe caps", "is_correct": false},
+            {"label": "C", "text": "Disconnect from the power source", "is_correct": true},
+            {"label": "D", "text": "Wear the correct personal protective equipment", "is_correct": false}
+        ]
+    },
+	{
+        "question": "An electric drill is to be used. Before use, who should carry out a check on the tool?",
+        "options": [
+            {"label": "A", "text": "Storeman", "is_correct": false},
+            {"label": "B", "text": "Electrician", "is_correct": false},
+            {"label": "C", "text": "Foreman", "is_correct": false},
+            {"label": "D", "text": "User", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What action should you take if an electric drill cuts out while you are using it?",
+        "options": [
+            {"label": "A", "text": "Shake it about a bit", "is_correct": false},
+            {"label": "B", "text": "Put it back into the tool box", "is_correct": false},
+            {"label": "C", "text": "Switch the power off and on", "is_correct": false},
+            {"label": "D", "text": "Remove it from use and tell your supervisor", "is_correct": true}
+        ]
+    },
+    {
+        "question": "If an electric drill gives off blue smoke from the motor, you should:",
+        "options": [
+            {"label": "A", "text": "Pour water over it", "is_correct": false},
+            {"label": "B", "text": "Use a CO2 extinguisher", "is_correct": false},
+            {"label": "C", "text": "Switch it off and report it", "is_correct": true},
+            {"label": "D", "text": "Stop work for 30 minutes", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How often should user (visual) checks be carried out on portable electrical equipment?",
+        "options": [
+            {"label": "A", "text": "Every time you use it", "is_correct": true},
+            {"label": "B", "text": "Every day", "is_correct": false},
+            {"label": "C", "text": "Once a week", "is_correct": false},
+            {"label": "D", "text": "At least once a year", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the preferred nominal voltage for portable hand lamps for general use on construction sites?",
+        "options": [
+            {"label": "A", "text": "110 volts", "is_correct": true},
+            {"label": "B", "text": "150 volts", "is_correct": false},
+            {"label": "C", "text": "230 volts", "is_correct": false},
+            {"label": "D", "text": "400 volts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the preferred nominal voltage for portable hand tools on construction sites?",
+        "options": [
+            {"label": "A", "text": "12 volts", "is_correct": false},
+            {"label": "B", "text": "24 volts", "is_correct": false},
+            {"label": "C", "text": "110 volts", "is_correct": true},
+            {"label": "D", "text": "230 volts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the preferred nominal voltage for local lighting up to 2 kW on construction sites?",
+        "options": [
+            {"label": "A", "text": "55 volts", "is_correct": false},
+            {"label": "B", "text": "110 volts", "is_correct": true},
+            {"label": "C", "text": "400 volts", "is_correct": false},
+            {"label": "D", "text": "230 volts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the recommended maximum voltage for portable hand lamps when working in confined or damp locations?",
+        "options": [
+            {"label": "A", "text": "50 volts", "is_correct": true},
+            {"label": "B", "text": "110 volts", "is_correct": false},
+            {"label": "C", "text": "230 volts", "is_correct": false},
+            {"label": "D", "text": "400 volts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you only have a mains voltage (230 V) hand drill and you want to use it on a construction site which only has yellow (110 V) socket-outlets, what should you do?",
+        "options": [
+            {"label": "A", "text": "Use a transformer to boost the voltage", "is_correct": false},
+            {"label": "B", "text": "Cut the plug off and fit a yellow one instead", "is_correct": false},
+            {"label": "C", "text": "Obtain a 110 V drill or a cordless one for the work", "is_correct": true},
+            {"label": "D", "text": "Make up an extension cable with a yellow plug on one end and a standard socket on the other end", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is most commonly used to reduce 230 volts to 110 volts on site?",
+        "options": [
+            {"label": "A", "text": "Residual current device", "is_correct": false},
+            {"label": "B", "text": "Transformer", "is_correct": true},
+            {"label": "C", "text": "Circuit breaker", "is_correct": false},
+            {"label": "D", "text": "Step-down generator", "is_correct": false}
+        ]
+    },
+	{
+        "question": "When using an extension cable reel, which of the following statements is correct?",
+        "options": [
+            {"label": "A", "text": "Leave as much as possible coiled up on the reel", "is_correct": false},
+            {"label": "B", "text": "Uncoil it fully every time", "is_correct": false},
+            {"label": "C", "text": "Do not exceed the reeled or unreeled rating as appropriate", "is_correct": true},
+            {"label": "D", "text": "Only uncoil what you need", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If an extension cable is to be run across a site road, what action should you take?",
+        "options": [
+            {"label": "A", "text": "Throw wooden boards over it", "is_correct": false},
+            {"label": "B", "text": "Place a rubber protection ramp over it and put up a sign stating ‘Ramp Ahead’", "is_correct": true},
+            {"label": "C", "text": "Don’t do anything to protect the cable", "is_correct": false},
+            {"label": "D", "text": "Lay the cable over wooden boards", "is_correct": false}
+        ]
+    },
+    {
+        "question": "To operate a powered hand tool you must be:",
+        "options": [
+            {"label": "A", "text": "16 years old or over", "is_correct": false},
+            {"label": "B", "text": "18 years old or over", "is_correct": false},
+            {"label": "C", "text": "21 years old or over", "is_correct": false},
+            {"label": "D", "text": "Trained and competent", "is_correct": true}
+        ]
+    },
+    {
+        "question": "If you are about to use a power tool and discover the guard is missing, you should:",
+        "options": [
+            {"label": "A", "text": "Make up a temporary guard yourself", "is_correct": false},
+            {"label": "B", "text": "Use the tool but try to work quickly", "is_correct": false},
+            {"label": "C", "text": "Not use the tool until a proper guard has been fitted", "is_correct": true},
+            {"label": "D", "text": "Use the tool but work carefully and slowly", "is_correct": false}
+        ]
+    }
+]

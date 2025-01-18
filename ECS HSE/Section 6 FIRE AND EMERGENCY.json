@@ -1,0 +1,434 @@
+[
+    {
+        "question": "An emergency route(s) must be provided on construction sites to ensure:",
+        "options": [
+            {"label": "A", "text": "Safe passage to the open air", "is_correct": false},
+            {"label": "B", "text": "Safe passage to the rest area", "is_correct": false},
+            {"label": "C", "text": "Safe passage to a secure place of safety", "is_correct": true},
+            {"label": "D", "text": "Safe passage to the ground from height", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What action should you take if you discover a fire?",
+        "options": [
+            {"label": "A", "text": "Leave it because you will get the blame", "is_correct": false},
+            {"label": "B", "text": "Raise the alarm", "is_correct": true},
+            {"label": "C", "text": "Carry on working if it is safe to do so", "is_correct": false},
+            {"label": "D", "text": "Extinguish the fire without raising the alarm", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If there had been a small fire, who should you report it to?",
+        "options": [
+            {"label": "A", "text": "Your supervisor", "is_correct": true},
+            {"label": "B", "text": "The main contractor's site agent", "is_correct": false},
+            {"label": "C", "text": "The site's fire marshal", "is_correct": false},
+            {"label": "D", "text": "The resident site engineer", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you discover a fire at work, what should you do first:",
+        "options": [
+            {"label": "A", "text": "Telephone 999", "is_correct": false},
+            {"label": "B", "text": "Use a fire extinguisher to put it out", "is_correct": false},
+            {"label": "C", "text": "Run around looking for an alarm to sound", "is_correct": false},
+            {"label": "D", "text": "Raise the alarm and warn fellow workers", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is a fire assembly point?",
+        "options": [
+            {"label": "A", "text": "The place to go when the fire alarm sounds", "is_correct": true},
+            {"label": "B", "text": "A place where the fire brigade goes to", "is_correct": false},
+            {"label": "C", "text": "A place where fire extinguishers are kept", "is_correct": false},
+            {"label": "D", "text": "The place where the fire alarm is", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Where would you go in the event of a fire?",
+        "options": [
+            {"label": "A", "text": "To the canteen for a cup of tea", "is_correct": false},
+            {"label": "B", "text": "To the fire assembly point", "is_correct": true},
+            {"label": "C", "text": "To the site hut", "is_correct": false},
+            {"label": "D", "text": "To the fire to see what is going on", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What should you do if you hear the fire alarm?",
+        "options": [
+            {"label": "A", "text": "Ignore it because it might be someone playing around", "is_correct": false},
+            {"label": "B", "text": "Leave work for the day", "is_correct": false},
+            {"label": "C", "text": "Evacuate the premises to a designated place of safety", "is_correct": true},
+            {"label": "D", "text": "Go towards the sound to find out what is going on", "is_correct": false}
+        ]
+    },
+    {
+        "question": "All new fire extinguishers are colored red or bright self-colored metal. How do you know the difference between types?",
+        "options": [
+            {"label": "A", "text": "A different color panel or band is on the body of the extinguishers", "is_correct": true},
+            {"label": "B", "text": "During site induction, you will be told where extinguishers are located", "is_correct": false},
+            {"label": "C", "text": "By the size of the extinguisher", "is_correct": false},
+            {"label": "D", "text": "By the sound of the alarm when removed", "is_correct": false}
+        ]
+    },
+	{
+        "question": "A black-labelled fire extinguisher contains:",
+        "options": [
+            {"label": "A", "text": "Dry powder", "is_correct": false},
+            {"label": "B", "text": "Water", "is_correct": false},
+            {"label": "C", "text": "Foam", "is_correct": false},
+            {"label": "D", "text": "Carbon dioxide", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is a blue-labelled fire extinguisher filled with?",
+        "options": [
+            {"label": "A", "text": "Water", "is_correct": false},
+            {"label": "B", "text": "Foam", "is_correct": false},
+            {"label": "C", "text": "Dry powder", "is_correct": true},
+            {"label": "D", "text": "Carbon dioxide", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which fire extinguisher should not be used on flammable liquid fires?",
+        "options": [
+            {"label": "A", "text": "Carbon dioxide", "is_correct": false},
+            {"label": "B", "text": "Powder", "is_correct": false},
+            {"label": "C", "text": "Water", "is_correct": true},
+            {"label": "D", "text": "Foam", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What colour is a water-filled fire extinguisher, or its label?",
+        "options": [
+            {"label": "A", "text": "Black", "is_correct": false},
+            {"label": "B", "text": "Cream", "is_correct": false},
+            {"label": "C", "text": "Red", "is_correct": true},
+            {"label": "D", "text": "Green", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When discharging carbon dioxide fire extinguishers, the nozzle:",
+        "options": [
+            {"label": "A", "text": "Becomes warm", "is_correct": false},
+            {"label": "B", "text": "Becomes very hot", "is_correct": false},
+            {"label": "C", "text": "Becomes very cold", "is_correct": true},
+            {"label": "D", "text": "Doesn’t change temperature", "is_correct": false}
+        ]
+    },
+    {
+        "question": "For fires involving spilled petrol, which types of fire extinguisher could you use?",
+        "options": [
+            {"label": "A", "text": "Water, carbon dioxide or foam", "is_correct": false},
+            {"label": "B", "text": "Water, foam or dry powder", "is_correct": false},
+            {"label": "C", "text": "Foam, carbon dioxide or dry powder", "is_correct": true},
+            {"label": "D", "text": "Water, carbon dioxide or dry powder", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which types of fire extinguishers should be used on electrical fires?",
+        "options": [
+            {"label": "A", "text": "Foam and water", "is_correct": false},
+            {"label": "B", "text": "Carbon dioxide and dry powder", "is_correct": true},
+            {"label": "C", "text": "Dry powder and foam", "is_correct": false},
+            {"label": "D", "text": "Water and carbon dioxide", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A red-labelled fire extinguisher should NOT be used:",
+        "options": [
+            {"label": "A", "text": "On wood fires", "is_correct": false},
+            {"label": "B", "text": "Where there is a risk of electrocution", "is_correct": true},
+            {"label": "C", "text": "On burning clothes", "is_correct": false},
+            {"label": "D", "text": "On burning furniture", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A workmate burns their hand on a piece of very hot metal. What should you do first?",
+        "options": [
+            {"label": "A", "text": "Rub some cream or Vaseline into the burn", "is_correct": false},
+            {"label": "B", "text": "Cover the burn with something dry", "is_correct": false},
+            {"label": "C", "text": "Warn other people about the piece of hot metal", "is_correct": false},
+            {"label": "D", "text": "Put their hand in cold water if it is available", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following items should not be in a first aid box?",
+        "options": [
+            {"label": "A", "text": "Safety pins", "is_correct": false},
+            {"label": "B", "text": "Pain killers", "is_correct": true},
+            {"label": "C", "text": "Disposable gloves", "is_correct": false},
+            {"label": "D", "text": "Triangular bandages", "is_correct": false}
+        ]
+    },
+	{
+        "question": "How often should a first-aider qualified in First Aid at Work (FAW) or Emergency First Aid at Work (EFAW) receive retraining?",
+        "options": [
+            {"label": "A", "text": "Every six months", "is_correct": false},
+            {"label": "B", "text": "Every two years", "is_correct": false},
+            {"label": "C", "text": "Every three years", "is_correct": true},
+            {"label": "D", "text": "Every four years", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you came across an injury on site, what is the first thing you should do?",
+        "options": [
+            {"label": "A", "text": "Tell the casualty to visit their doctor", "is_correct": false},
+            {"label": "B", "text": "Inform the HSE", "is_correct": false},
+            {"label": "C", "text": "Contact a first-aider", "is_correct": true},
+            {"label": "D", "text": "Try and find out what happened", "is_correct": false}
+        ]
+    },
+    {
+        "question": "An employee has a fall and is obviously unconscious. What is the FIRST thing you should do?",
+        "options": [
+            {"label": "A", "text": "Send someone for the first-aider", "is_correct": true},
+            {"label": "B", "text": "Find out if there were any witnesses", "is_correct": false},
+            {"label": "C", "text": "Try to protect them from any further injury", "is_correct": false},
+            {"label": "D", "text": "Put them in the recovery position", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A labourer gets an electric shock; looks a bit pale but says they are alright. What should you do?",
+        "options": [
+            {"label": "A", "text": "Send someone for the first-aider", "is_correct": true},
+            {"label": "B", "text": "Tell them to report it to their supervisor", "is_correct": false},
+            {"label": "C", "text": "Go and check the electrics so it cannot happen again", "is_correct": false},
+            {"label": "D", "text": "See if they want a drink or a cigarette", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following must an employer consider when making provisions for first aid?",
+        "options": [
+            {"label": "A", "text": "How much working space will be wasted", "is_correct": false},
+            {"label": "B", "text": "How much will it cost", "is_correct": false},
+            {"label": "C", "text": "Whether the local ambulance service can be used", "is_correct": false},
+            {"label": "D", "text": "The likely types of injury", "is_correct": true}
+        ]
+    },
+    {
+        "question": "In an on-site emergency, which of the following must a first-aider NOT do?",
+        "options": [
+            {"label": "A", "text": "Treat an unconscious patient", "is_correct": false},
+            {"label": "B", "text": "Control bleeding", "is_correct": false},
+            {"label": "C", "text": "Give resuscitation", "is_correct": false},
+            {"label": "D", "text": "Give medicines to patients without authorization", "is_correct": true}
+        ]
+    },
+    {
+        "question": "If someone has fallen over and has stopped breathing, what is the first thing you should do?",
+        "options": [
+            {"label": "A", "text": "Send for help", "is_correct": true},
+            {"label": "B", "text": "Attend to any broken bones", "is_correct": false},
+            {"label": "C", "text": "Try to give the casualty a drink", "is_correct": false},
+            {"label": "D", "text": "Try to start the casualty breathing", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If someone has fallen off a ladder and they say their leg is broken, what should you do?",
+        "options": [
+            {"label": "A", "text": "Send for the first-aider", "is_correct": true},
+            {"label": "B", "text": "Help them to the cabin or mess hut", "is_correct": false},
+            {"label": "C", "text": "Move the ladder so no-one trips over it", "is_correct": false},
+            {"label": "D", "text": "Bandage their legs together", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Your workmate suddenly gets a foreign body in the eye. What should you do?",
+        "options": [
+            {"label": "A", "text": "Take your workmate to the supervisor", "is_correct": false},
+            {"label": "B", "text": "Use a clean handkerchief to try and remove it", "is_correct": false},
+            {"label": "C", "text": "Wash your hands before touching your mate’s face", "is_correct": false},
+            {"label": "D", "text": "Send someone for the first-aider", "is_correct": true}
+        ]
+    },
+    {
+        "question": "A person nearly collapses complaining of stomach pains. What should you do?",
+        "options": [
+            {"label": "A", "text": "Send someone for the first-aider", "is_correct": true},
+            {"label": "B", "text": "Go and find them something to drink", "is_correct": false},
+            {"label": "C", "text": "Help them to find somewhere comfortable to sit", "is_correct": false},
+            {"label": "D", "text": "Ask them if they want something to eat", "is_correct": false}
+        ]
+    },
+	{
+        "question": "A workmate lifting a big box suddenly shouts ‘oh, my back’ and drops the box. What should you do?",
+        "options": [
+            {"label": "A", "text": "Tell them to leave it for someone else to lift", "is_correct": false},
+            {"label": "B", "text": "Send for the first-aider", "is_correct": true},
+            {"label": "C", "text": "Help them to lift the box", "is_correct": false},
+            {"label": "D", "text": "Find them somewhere comfortable to sit and rest", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What should you do immediately if you get a small cut on a finger whilst at work?",
+        "options": [
+            {"label": "A", "text": "Carry on working", "is_correct": false},
+            {"label": "B", "text": "Get first-aid", "is_correct": true},
+            {"label": "C", "text": "Ask your employer to report it to the HSE", "is_correct": false},
+            {"label": "D", "text": "Just wash it clean", "is_correct": false}
+        ]
+    },
+    {
+        "question": "In an emergency situation at work you should do what?",
+        "options": [
+            {"label": "A", "text": "Phone the HSE Inspectorate", "is_correct": false},
+            {"label": "B", "text": "Obey the site emergency procedure", "is_correct": true},
+            {"label": "C", "text": "Ensure your workmates are all accounted for", "is_correct": false},
+            {"label": "D", "text": "Leave the site immediately", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What does the sound of a siren on-site normally indicate?",
+        "options": [
+            {"label": "A", "text": "A fire", "is_correct": false},
+            {"label": "B", "text": "A toxic escape", "is_correct": false},
+            {"label": "C", "text": "An explosion", "is_correct": false},
+            {"label": "D", "text": "An emergency", "is_correct": true}
+        ]
+    },
+    {
+        "question": "The purpose of fire-stopping in a building is to:",
+        "options": [
+            {"label": "A", "text": "Prevent a fire starting", "is_correct": false},
+            {"label": "B", "text": "Delay the passage of fire and smoke through openings in walls and floors", "is_correct": true},
+            {"label": "C", "text": "Activate fire sprinklers", "is_correct": false},
+            {"label": "D", "text": "Set off the fire alarm", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What are fire-stops designed to do?",
+        "options": [
+            {"label": "A", "text": "Extinguish a fire", "is_correct": false},
+            {"label": "B", "text": "Protect services (such as wiring systems) against fire damage", "is_correct": false},
+            {"label": "C", "text": "Close fire doors automatically", "is_correct": false},
+            {"label": "D", "text": "Delay the passage of fire and smoke through openings in walls and floors", "is_correct": true}
+        ]
+    },
+    {
+        "question": "In addition to preserving fire separation between areas of a building, which other important fire safety function can fire-stopping achieve?",
+        "options": [
+            {"label": "A", "text": "Preventing premature structural collapse", "is_correct": true},
+            {"label": "B", "text": "Reducing nuisance fire alarms", "is_correct": false},
+            {"label": "C", "text": "Reducing noise transmission", "is_correct": false},
+            {"label": "D", "text": "Saving energy", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Intumescent materials used to provide fire-stopping are designed to:",
+        "options": [
+            {"label": "A", "text": "Expand when subjected to smoke", "is_correct": false},
+            {"label": "B", "text": "Shrink when subjected to heat", "is_correct": false},
+            {"label": "C", "text": "Expand when subjected to heat", "is_correct": true},
+            {"label": "D", "text": "Prevent noise transmission", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What should you do if you disturb fire-stopping around a wiring system penetrating a wall or floor whilst carrying out work?",
+        "options": [
+            {"label": "A", "text": "Nail a piece of wood over any gaps", "is_correct": false},
+            {"label": "B", "text": "Ensure that the fire-stopping is reinstated to the necessary standard as soon as possible", "is_correct": true},
+            {"label": "C", "text": "Highlight this on any certification", "is_correct": false},
+            {"label": "D", "text": "Fill any holes or gaps with squashed newspaper", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you discover a hole or gap in a fire rated wall or floor that has not been fire-stopped, what should you do?",
+        "options": [
+            {"label": "A", "text": "Report it to your supervisor without delay", "is_correct": true},
+            {"label": "B", "text": "Ignore it unless it is causing a draught", "is_correct": false},
+            {"label": "C", "text": "Cover the hole or gap with insulating tape", "is_correct": false},
+            {"label": "D", "text": "Use decorators’ sealant to fill the gap", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Which one of the following is associated with a Higher Risk Building (HRBs) in England?",
+        "options": [
+            {"label": "A", "text": "At least 18 metres in height or seven storeys", "is_correct": true},
+            {"label": "B", "text": "At least 15 metres in height or seven storeys", "is_correct": false},
+            {"label": "C", "text": "At least 15 metres in height or six storeys", "is_correct": false},
+            {"label": "D", "text": "At least 18 metres in height or six storeys", "is_correct": false}
+        ]
+    },
+    {
+        "question": "For a holistic approach to fire safety - to plan for all aspects of fire safety - the three main areas that need to be considered are design, construction and...",
+        "options": [
+            {"label": "A", "text": "Occupation", "is_correct": false},
+            {"label": "B", "text": "Fire stopping", "is_correct": false},
+            {"label": "C", "text": "Maintenance", "is_correct": true},
+            {"label": "D", "text": "Demolition", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following materials provide the least effective fire resistance?",
+        "options": [
+            {"label": "A", "text": "Brick", "is_correct": false},
+            {"label": "B", "text": "Concrete", "is_correct": false},
+            {"label": "C", "text": "Timber", "is_correct": true},
+            {"label": "D", "text": "Steel", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When man-made substances, such as rubber, burn, the colour of the smoke is typically:",
+        "options": [
+            {"label": "A", "text": "White", "is_correct": false},
+            {"label": "B", "text": "Black", "is_correct": true},
+            {"label": "C", "text": "Grey", "is_correct": false},
+            {"label": "D", "text": "Yellow", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following is a benefit of a ‘stay put’ strategy for fire evacuation in high-risk buildings?",
+        "options": [
+            {"label": "A", "text": "It slows the fire fighters’ response to a fire", "is_correct": false},
+            {"label": "B", "text": "It reduces communication between occupants and emergency services", "is_correct": false},
+            {"label": "C", "text": "You reduce the risk of entering a smoky corridor and being overcome by smoke", "is_correct": true},
+            {"label": "D", "text": "It allows lifts to be used more effectively", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following is not a requirement of a protected escape route?",
+        "options": [
+            {"label": "A", "text": "Leads to a safe place", "is_correct": false},
+            {"label": "B", "text": "Protection from smoke", "is_correct": false},
+            {"label": "C", "text": "Infra-red lights", "is_correct": true},
+            {"label": "D", "text": "Protection from fire", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following is not an area of competence?",
+        "options": [
+            {"label": "A", "text": "Skills", "is_correct": false},
+            {"label": "B", "text": "Resilience", "is_correct": true},
+            {"label": "C", "text": "Knowledge", "is_correct": false},
+            {"label": "D", "text": "Behaviours", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is a key consideration for individuals to ensure safety at work?",
+        "options": [
+            {"label": "A", "text": "Pushing personal limits to complete a job at any cost", "is_correct": false},
+            {"label": "B", "text": "Having a go at jobs without proper training", "is_correct": false},
+            {"label": "C", "text": "Recognising the limitations of competence and not exceeding your own limitations", "is_correct": true},
+            {"label": "D", "text": "Ignoring boundaries to complete a job in the quickest manner possible", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following is a consequence of poor workmanship?",
+        "options": [
+            {"label": "A", "text": "Improved fire safety", "is_correct": false},
+            {"label": "B", "text": "A good reputation", "is_correct": false},
+            {"label": "C", "text": "Increase in hazard and servicing", "is_correct": true},
+            {"label": "D", "text": "Increased structural stability", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is CROSS-UK?",
+        "options": [
+            {"label": "A", "text": "A branch of the British Red Cross for Construction Workers", "is_correct": false},
+            {"label": "B", "text": "An online forum for workers to complain about their employers", "is_correct": false},
+            {"label": "C", "text": "A confidential reporting system to report on fire and structural safety issues", "is_correct": true},
+            {"label": "D", "text": "A charity that supplies work equipment to apprentices", "is_correct": false}
+        ]
+    }
+]

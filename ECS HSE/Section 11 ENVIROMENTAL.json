@@ -1,0 +1,191 @@
+[
+    {
+        "question": "You are on site and you need to dispose of some waste liquid which has oil in it and you are not sure what to do with it. What should you do?",
+        "options": [
+            {"label": "A", "text": "Dispose of it in a sealed container into the site skip", "is_correct": false},
+            {"label": "B", "text": "Pour it onto the ground, it will soak away", "is_correct": false},
+            {"label": "C", "text": "Take it outside and set light to it", "is_correct": false},
+            {"label": "D", "text": "Ask your supervisor about the correct way to deal with this waste", "is_correct": true}
+        ]
+    },
+    {
+        "question": "How should you get rid of hazardous/special waste?",
+        "options": [
+            {"label": "A", "text": "Put it at the bottom of any site skip", "is_correct": false},
+            {"label": "B", "text": "In accordance with the correct site waste rules", "is_correct": true},
+            {"label": "C", "text": "Take it home, they won't want it on site", "is_correct": false},
+            {"label": "D", "text": "Take it to the nearest local authority waste tip", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is classed as hazardous/special waste?",
+        "options": [
+            {"label": "A", "text": "Non-asbestos insulation", "is_correct": false},
+            {"label": "B", "text": "Polythene and shrink wrap", "is_correct": false},
+            {"label": "C", "text": "Empty cement bags", "is_correct": false},
+            {"label": "D", "text": "Fluorescent light tubes", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following should be disposed of as hazardous/special waste?",
+        "options": [
+            {"label": "A", "text": "Timber, plywood and MDF off-cuts", "is_correct": false},
+            {"label": "B", "text": "Glass fibre insulation", "is_correct": false},
+            {"label": "C", "text": "Aerosol sealant canisters", "is_correct": true},
+            {"label": "D", "text": "Used nuisance dust masks", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You need to clean up some oil that has leaked from machinery onto the ground. What is the right way to do this?",
+        "options": [
+            {"label": "A", "text": "Put the oily contaminated soil into the general waste skip", "is_correct": false},
+            {"label": "B", "text": "Put the oily contaminated soil into a suitable container that takes hazardous waste", "is_correct": true},
+            {"label": "C", "text": "Put it under some off-cuts so that the oil cannot be seen", "is_correct": false},
+            {"label": "D", "text": "Wash the oil away with water and detergent", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Other site workers are complaining that you are generating too much dust. What should you do?",
+        "options": [
+            {"label": "A", "text": "Tell them you have nearly finished", "is_correct": false},
+            {"label": "B", "text": "Stop work and inform your supervisor", "is_correct": true},
+            {"label": "C", "text": "Ignore them – it’s none of their business", "is_correct": false},
+            {"label": "D", "text": "Issue the other site workers with dust masks", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Who needs to understand relevant environmental risks on a construction site?",
+        "options": [
+            {"label": "A", "text": "Only the principal contractor", "is_correct": false},
+            {"label": "B", "text": "Only the subcontractors", "is_correct": false},
+            {"label": "C", "text": "Everyone working on the site", "is_correct": true},
+            {"label": "D", "text": "Only the environmental clerk of works", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Under environmental law, which statement is true?",
+        "options": [
+            {"label": "A", "text": "Companies and individuals can be prosecuted if they do not follow the law", "is_correct": true},
+            {"label": "B", "text": "Companies can be prosecuted, but not individuals", "is_correct": false},
+            {"label": "C", "text": "It is legal to transport business waste without proper paperwork", "is_correct": false},
+            {"label": "D", "text": "It is legal to disturb protected species’ habitats", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Do individuals have any responsibility for sustainability when on site?",
+        "options": [
+            {"label": "A", "text": "No, it is dealt with by the site manager", "is_correct": false},
+            {"label": "B", "text": "No, it is a matter for the Environment Agency/NIEA/SEPA", "is_correct": false},
+            {"label": "C", "text": "Only on sites where there is asbestos", "is_correct": false},
+            {"label": "D", "text": "Yes, on every site", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT best practice from a sustainability point of view?",
+        "options": [
+            {"label": "A", "text": "Saving materials, fuel, water and energy", "is_correct": false},
+            {"label": "B", "text": "Looking after the people working on or near the site", "is_correct": false},
+            {"label": "C", "text": "Protecting the environment", "is_correct": false},
+            {"label": "D", "text": "Sending unused and waste copper cables to landfill", "is_correct": true}
+        ]
+    },
+	{
+        "question": "Which of the following does NOT help sustainability during construction projects?",
+        "options": [
+            {"label": "A", "text": "Leaving engines and motors running when they are not needed", "is_correct": true},
+            {"label": "B", "text": "Segregating waste", "is_correct": false},
+            {"label": "C", "text": "Vehicle sharing or using public transport to get to work", "is_correct": false},
+            {"label": "D", "text": "Avoiding overheating site huts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following should you do on site in the interest of sustainability?",
+        "options": [
+            {"label": "A", "text": "Run plant and equipment when they are not needed", "is_correct": false},
+            {"label": "B", "text": "Bury waste material", "is_correct": false},
+            {"label": "C", "text": "Comply with site instructions on handling waste materials", "is_correct": true},
+            {"label": "D", "text": "Pour waste liquids down a drain off-site", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT part of ‘environmentally-friendly’ construction?",
+        "options": [
+            {"label": "A", "text": "Creating a dust nuisance to residents in neighbouring properties", "is_correct": true},
+            {"label": "B", "text": "Preventing water and soil pollution", "is_correct": false},
+            {"label": "C", "text": "Saving energy", "is_correct": false},
+            {"label": "D", "text": "Minimising the amount of waste you create during a job", "is_correct": false}
+        ]
+    },
+    {
+        "question": "From an environmental point of view, why should materials be reused, where possible?",
+        "options": [
+            {"label": "A", "text": "To save the client money", "is_correct": false},
+            {"label": "B", "text": "A lot of energy and raw materials go into making most construction products", "is_correct": true},
+            {"label": "C", "text": "It makes less mess on site", "is_correct": false},
+            {"label": "D", "text": "It’s a European Union Law", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which action will help to minimise waste?",
+        "options": [
+            {"label": "A", "text": "Only take or open what you need and return or reseal anything left over", "is_correct": true},
+            {"label": "B", "text": "Use new materials/packs at the beginning of each day", "is_correct": false},
+            {"label": "C", "text": "Leave materials unprotected in the rain", "is_correct": false},
+            {"label": "D", "text": "Always order much more than usually required – just in case you need it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is good environmental practice?",
+        "options": [
+            {"label": "A", "text": "Over-ordering materials", "is_correct": false},
+            {"label": "B", "text": "Segregating waste into different types", "is_correct": true},
+            {"label": "C", "text": "Leaving skips uncovered in wet weather", "is_correct": false},
+            {"label": "D", "text": "Leaving motors running when they are not needed", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Do individuals have any responsibility for minimising the amount of waste created on site?",
+        "options": [
+            {"label": "A", "text": "Only if asbestos removal is being carried out", "is_correct": false},
+            {"label": "B", "text": "Yes, everyone on site has this responsibility", "is_correct": true},
+            {"label": "C", "text": "No, it’s the responsibility of the client", "is_correct": false},
+            {"label": "D", "text": "Only during site clean-up, at the end of the project", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you have unused material left, what should you do before you consider putting non-hazardous waste items into a skip?",
+        "options": [
+            {"label": "A", "text": "Make sure there is a label on it", "is_correct": false},
+            {"label": "B", "text": "Put it in a plastic bag and put it in a skip", "is_correct": false},
+            {"label": "C", "text": "Check whether someone else on your team can make use of it", "is_correct": true},
+            {"label": "D", "text": "Weigh it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Why should different types of waste be separated on site?",
+        "options": [
+            {"label": "A", "text": "It will take up less room in the skip", "is_correct": false},
+            {"label": "B", "text": "So the local council can charge Landfill Tax", "is_correct": false},
+            {"label": "C", "text": "So the main contractor can check what’s being thrown away", "is_correct": false},
+            {"label": "D", "text": "So waste can be recovered more easily", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When storing liquids (such as oils, fuels or chemicals) on-site, what must you do?",
+        "options": [
+            {"label": "A", "text": "Always use the nearest container", "is_correct": false},
+            {"label": "B", "text": "Use a transparent container so you can check how much liquid is in it", "is_correct": false},
+            {"label": "C", "text": "Ensure the liquid material is stored safely and securely, and out of the way of site traffic", "is_correct": true},
+            {"label": "D", "text": "Keep the tops off, to prevent pressure from building up", "is_correct": false}
+        ]
+    },
+	{
+    "question": "What can help to prevent harm to the environment from oil spillages?",
+    "options": [
+        {"label": "A", "text": "A supply of water to flush the spill away", "is_correct": false},
+        {"label": "B", "text": "Cover the spillage with soil", "is_correct": false},
+        {"label": "C", "text": "Turning liquid containers upside down so the top can’t come off", "is_correct": false},
+        {"label": "D", "text": "Store oils in an area that can catch any spills, such as a bund or a drip tray", "is_correct": true}
+		]
+	}
+]

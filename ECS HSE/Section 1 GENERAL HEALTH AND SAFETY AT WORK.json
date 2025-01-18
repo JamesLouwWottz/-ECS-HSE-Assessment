@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What do the letters CDM stand for?",
+        "options": [
+            {"label": "A", "text": "Control of Dangerous Materials Regulations", "is_correct": false},
+            {"label": "B", "text": "Control of Demolition and Management Regulations", "is_correct": false},
+            {"label": "C", "text": "Construction (Demolition Management) Regulations", "is_correct": false},
+            {"label": "D", "text": "Construction (Design and Management) Regulations", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Identify one method of enforcing regulations that are available to the Health and Safety Executive:",
+        "options": [
+            {"label": "A", "text": "Health Notice", "is_correct": false},
+            {"label": "B", "text": "Improvement Notice", "is_correct": true},
+            {"label": "C", "text": "Obstruction Notice", "is_correct": false},
+            {"label": "D", "text": "Increasing Insurance Premiums", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What happens if a Prohibition Notice is issued by an Inspector of the local authority or the HSE?",
+        "options": [
+            {"label": "A", "text": "The work in hand can be completed, but no new work started", "is_correct": false},
+            {"label": "B", "text": "The work can continue if adequate safety precautions are put in place", "is_correct": false},
+            {"label": "C", "text": "The work that is subject to the notice must cease", "is_correct": true},
+            {"label": "D", "text": "The work can continue, provided a risk assessment is carried out", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Health and Safety Executive Inspector can?",
+        "options": [
+            {"label": "A", "text": "Only visit if they have made an appointment", "is_correct": false},
+            {"label": "B", "text": "Visit at any time", "is_correct": true},
+            {"label": "C", "text": "Only visit if accompanied by the principal contractor", "is_correct": false},
+            {"label": "D", "text": "Only visit to interview the site manager", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Prohibition Notice means:",
+        "options": [
+            {"label": "A", "text": "When you finish the work you must not start again", "is_correct": false},
+            {"label": "B", "text": "The work must stop immediately", "is_correct": true},
+            {"label": "C", "text": "Work is to stop for that day only", "is_correct": false},
+            {"label": "D", "text": "Work may continue until the end of the day", "is_correct": false}
+        ]
+    },
+    {
+        "question": "In what circumstances can an HSE Improvement Notice be issued?",
+        "options": [
+            {"label": "A", "text": "If there is a breach of legal requirements", "is_correct": true},
+            {"label": "B", "text": "By warrant through the police", "is_correct": false},
+            {"label": "C", "text": "Only between Monday and Friday on site", "is_correct": false},
+            {"label": "D", "text": "Through the prosecution office", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is an Improvement Notice?",
+        "options": [
+            {"label": "A", "text": "A notice issued by the site principal contractor to tidy up the site", "is_correct": false},
+            {"label": "B", "text": "A notice from the client to the principal contractor to speed up the work", "is_correct": false},
+            {"label": "C", "text": "A notice issued by a Building Control Officer to deepen foundations", "is_correct": false},
+            {"label": "D", "text": "A notice issued by an HSE/local authority Inspector to enforce compliance with health and safety legislation", "is_correct": true}
+        ]
+    },
+    {
+        "question": "If a Health and Safety Executive Inspector issues a Prohibition Notice, this means that:",
+        "options": [
+            {"label": "A", "text": "The Site Manager can choose whether or not to ignore the notice", "is_correct": false},
+            {"label": "B", "text": "Specific work activities, highlighted on the notice, must stop", "is_correct": true},
+            {"label": "C", "text": "The HSE must supervise the work covered by the notice", "is_correct": false},
+            {"label": "D", "text": "The HSE must supervise all work from then on", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Employers are required to provide information to their employees on their health and safety rights and responsibilities and how to get advice by:",
+        "options": [
+            {"label": "A", "text": "Telling them verbally when they start work for them", "is_correct": false},
+            {"label": "B", "text": "Displaying a poster or giving them leaflets approved by the HSE", "is_correct": true},
+            {"label": "C", "text": "Making them read the company health and safety policy", "is_correct": false},
+            {"label": "D", "text": "Emailing the information to them", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Who is responsible for signing a Company Safety Policy?",
+        "options": [
+            {"label": "A", "text": "Site Manager", "is_correct": false},
+            {"label": "B", "text": "Company Safety Officer", "is_correct": false},
+            {"label": "C", "text": "Company Secretary", "is_correct": false},
+            {"label": "D", "text": "Managing Director", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which one of the following must be in a company’s written Health and Safety Policy?",
+        "options": [
+            {"label": "A", "text": "Aims and objectives of the company", "is_correct": false},
+            {"label": "B", "text": "Organisation and arrangements in force for carrying out the health and safety policy", "is_correct": true},
+            {"label": "C", "text": "Name of the Health and Safety Adviser", "is_correct": false},
+            {"label": "D", "text": "Company Director’s home address", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Employers have to produce a written Health and Safety Policy statement when:",
+        "options": [
+            {"label": "A", "text": "A contract commences", "is_correct": false},
+            {"label": "B", "text": "They employ five people or more", "is_correct": true},
+            {"label": "C", "text": "The safety representative requests it", "is_correct": false},
+            {"label": "D", "text": "The HSE notifies them", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Companies employing five or more people must have a written Health and Safety Policy because:",
+        "options": [
+            {"label": "A", "text": "The principal contractor gives them work on site", "is_correct": false},
+            {"label": "B", "text": "The HSAWA 1974 requires it", "is_correct": true},
+            {"label": "C", "text": "The Social Security Act requires it", "is_correct": false},
+            {"label": "D", "text": "The trade unions require it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What do the letters HSE stand for?",
+        "options": [
+            {"label": "A", "text": "Health and Safety Executive", "is_correct": true},
+            {"label": "B", "text": "Health and Security Executive", "is_correct": false},
+            {"label": "C", "text": "Health and Safety Environment", "is_correct": false},
+            {"label": "D", "text": "Health and Safety Employment", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety Executive is:",
+        "options": [
+            {"label": "A", "text": "A government agency responsible for workplace safety", "is_correct": true},
+            {"label": "B", "text": "A trade union organisation", "is_correct": false},
+            {"label": "C", "text": "A training provider", "is_correct": false},
+            {"label": "D", "text": "An insurance company", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety at Work Act requires employers to provide what for their employees?",
+        "options": [
+            {"label": "A", "text": "Protective clothing only", "is_correct": false},
+            {"label": "B", "text": "A safe place of work", "is_correct": true},
+            {"label": "C", "text": "Transport to work", "is_correct": false},
+            {"label": "D", "text": "Welfare facilities", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety at Work Act 1974 and any regulations made under the Act are:",
+        "options": [
+            {"label": "A", "text": "Advisory", "is_correct": false},
+            {"label": "B", "text": "Legally binding", "is_correct": true},
+            {"label": "C", "text": "Voluntary", "is_correct": false},
+            {"label": "D", "text": "Recommended", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Under the Health and Safety at Work Act 1974, which of the following have a duty to work safely?",
+        "options": [
+            {"label": "A", "text": "Employers only", "is_correct": false},
+            {"label": "B", "text": "Employees only", "is_correct": false},
+            {"label": "C", "text": "All people at work", "is_correct": true},
+            {"label": "D", "text": "Visitors only", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the MAXIMUM penalty that a Higher Court, can currently impose for a breach of the Health and Safety at Work Act?",
+        "options": [
+            {"label": "A", "text": "£20,000 fine", "is_correct": false},
+            {"label": "B", "text": "Unlimited fine and two years’ imprisonment", "is_correct": true},
+            {"label": "C", "text": "Unlimited fine", "is_correct": false},
+            {"label": "D", "text": "Community service", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What do the letters ACOP stand for?",
+        "options": [
+            {"label": "A", "text": "Approved Code of Practice", "is_correct": true},
+            {"label": "B", "text": "Associated Code of Practice", "is_correct": false},
+            {"label": "C", "text": "Approved Committee of Practice", "is_correct": false},
+            {"label": "D", "text": "Accredited Code of Practice", "is_correct": false}
+        ]
+    },
+        {
+        "question": "Where should you look for official advice on health and safety matters?",
+        "options": [
+            {"label": "A", "text": "A set of health and safety guidelines provided by suppliers", "is_correct": false},
+            {"label": "B", "text": "The health and safety rules as laid down by the employer", "is_correct": false},
+            {"label": "C", "text": "Guidance issued by the Health and Safety Executive", "is_correct": true},
+            {"label": "D", "text": "A professionally approved guidebook on regulations", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Regulations that govern health and safety on construction sites:",
+        "options": [
+            {"label": "A", "text": "Apply only to inexperienced workers", "is_correct": false},
+            {"label": "B", "text": "Do not apply during 'out of hours' working", "is_correct": false},
+            {"label": "C", "text": "Apply only to large companies", "is_correct": false},
+            {"label": "D", "text": "Are mandatory (that is, compulsory)", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "options": [
+            {"label": "A", "text": "The duty for health and safety falls only on the employer", "is_correct": false},
+            {"label": "B", "text": "All employees must take reasonable care, not only to protect themselves but also their colleagues", "is_correct": true},
+            {"label": "C", "text": "Employees have no responsibility for Health and Safety on site", "is_correct": false},
+            {"label": "D", "text": "Only the client is responsible for safety on site", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Who of the following would you expect to be responsible for managing health and safety on site?",
+        "options": [
+            {"label": "A", "text": "Foreman", "is_correct": false},
+            {"label": "B", "text": "Your employer", "is_correct": true},
+            {"label": "C", "text": "Main sub-contractor", "is_correct": false},
+            {"label": "D", "text": "HSE Inspector", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is correct for risk assessment?",
+        "options": [
+            {"label": "A", "text": "It is a good idea but not essential", "is_correct": false},
+            {"label": "B", "text": "Only required to be done for hazardous work", "is_correct": false},
+            {"label": "C", "text": "Must always be done", "is_correct": true},
+            {"label": "D", "text": "Only required on major jobs", "is_correct": false}
+        ]
+    },
+    {
+        "question": "In the context of a risk assessment, what do you understand by the term risk?",
+        "options": [
+            {"label": "A", "text": "An unsafe act or condition", "is_correct": false},
+            {"label": "B", "text": "Something with the potential to cause injury", "is_correct": false},
+            {"label": "C", "text": "Any work activity that can be described as dangerous", "is_correct": false},
+            {"label": "D", "text": "The likelihood that harm from a particular hazard will occur", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Who would you expect to carry out a risk assessment on your working site?",
+        "options": [
+            {"label": "A", "text": "The CDM Co-ordinator", "is_correct": false},
+            {"label": "B", "text": "A visiting HSE Inspector", "is_correct": false},
+            {"label": "C", "text": "The construction project designer", "is_correct": false},
+            {"label": "D", "text": "A competent person", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is a HAZARD?",
+        "options": [
+            {"label": "A", "text": "Where an accident is likely to happen", "is_correct": false},
+            {"label": "B", "text": "An accident waiting to happen", "is_correct": false},
+            {"label": "C", "text": "Something with the potential to cause harm", "is_correct": true},
+            {"label": "D", "text": "The likelihood of something going wrong", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What must be done before any work begins?",
+        "options": [
+            {"label": "A", "text": "Emergency plan", "is_correct": false},
+            {"label": "B", "text": "Assessment of risk", "is_correct": true},
+            {"label": "C", "text": "Soil assessment", "is_correct": false},
+            {"label": "D", "text": "Geological survey", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Complete the following sentence: A risk assessment:",
+        "options": [
+            {"label": "A", "text": "Is a piece of paper required by law", "is_correct": false},
+            {"label": "B", "text": "Prevents accidents", "is_correct": false},
+            {"label": "C", "text": "Is a means of analysing what might go wrong", "is_correct": true},
+            {"label": "D", "text": "Isn’t particularly useful", "is_correct": false}
+        ]
+    },
+        {
+        "question": "Why would your supervisor ask you to read the method statement and risk assessment before you start your next job?",
+        "options": [
+            {"label": "A", "text": "They think you have got nothing better to do", "is_correct": false},
+            {"label": "B", "text": "The documents contain information on how to carry out the job in a safe manner", "is_correct": true},
+            {"label": "C", "text": "They wouldn’t as they think they are a waste of time", "is_correct": false},
+            {"label": "D", "text": "As someone has taken the time and trouble to write them, you might as well read them", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What do the blue and white health and safety signs tell you?",
+        "options": [
+            {"label": "A", "text": "Things you must do", "is_correct": true},
+            {"label": "B", "text": "Where the nearest fire exit is", "is_correct": false},
+            {"label": "C", "text": "The hazards in the area", "is_correct": false},
+            {"label": "D", "text": "Things you must not do", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What colours are emergency exit signs?",
+        "options": [
+            {"label": "A", "text": "Green and white", "is_correct": true},
+            {"label": "B", "text": "Red and yellow", "is_correct": false},
+            {"label": "C", "text": "Red and white", "is_correct": false},
+            {"label": "D", "text": "Blue and white", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the main colour on a safety sign stating that you must NOT do something?",
+        "options": [
+            {"label": "A", "text": "Blue", "is_correct": false},
+            {"label": "B", "text": "Green", "is_correct": false},
+            {"label": "C", "text": "Red", "is_correct": true},
+            {"label": "D", "text": "Yellow", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of signs. What colours are used on a sign indicating a warning, for example 'Fork-lift trucks operating'?",
+        "options": [
+            {"label": "A", "text": "Blue and white", "is_correct": false},
+            {"label": "B", "text": "Green and white", "is_correct": false},
+            {"label": "C", "text": "Yellow and black", "is_correct": true},
+            {"label": "D", "text": "Red and white", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a prohibited activity, for example 'No access for pedestrians'?",
+        "options": [
+            {"label": "A", "text": "Green and white", "is_correct": false},
+            {"label": "B", "text": "Red, black and white", "is_correct": true},
+            {"label": "C", "text": "Blue and white", "is_correct": false},
+            {"label": "D", "text": "Yellow and black", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a mandatory activity, for example 'Safety helmets must be worn'?",
+        "options": [
+            {"label": "A", "text": "Green and white", "is_correct": false},
+            {"label": "B", "text": "Red, black and white", "is_correct": false},
+            {"label": "C", "text": "Blue and white", "is_correct": true},
+            {"label": "D", "text": "Yellow and black", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a safe condition, for example First Aid kit?",
+        "options": [
+            {"label": "A", "text": "Red, black and white", "is_correct": false},
+            {"label": "B", "text": "Blue and white", "is_correct": false},
+            {"label": "C", "text": "Yellow and black", "is_correct": false},
+            {"label": "D", "text": "Green and white", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Why should regular inspections of the workplace take place?",
+        "options": [
+            {"label": "A", "text": "To check whether the working environment is safe", "is_correct": true},
+            {"label": "B", "text": "To check that all employees are present", "is_correct": false},
+            {"label": "C", "text": "To check that everyone is doing their job", "is_correct": false},
+            {"label": "D", "text": "To prepare for a visit from an HSE Inspector", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How can you help to prevent accidents?",
+        "options": [
+            {"label": "A", "text": "Don’t report them", "is_correct": false},
+            {"label": "B", "text": "Know how to get help quickly", "is_correct": false},
+            {"label": "C", "text": "Report any unsafe conditions", "is_correct": true},
+            {"label": "D", "text": "Know where the first-aid kit is kept", "is_correct": false}
+        ]
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "question": "Most deaths on site are caused by:",
+        "options": [
+            {"label": "A", "text": "Vehicle movements", "is_correct": false},
+            {"label": "B", "text": "Falling from height", "is_correct": true},
+            {"label": "C", "text": "Solvent inhalation", "is_correct": false},
+            {"label": "D", "text": "Chemical burns", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The type of accident that kills most construction site workers is:",
+        "options": [
+            {"label": "A", "text": "Being hit by falling objects", "is_correct": false},
+            {"label": "B", "text": "Falling from heights", "is_correct": true},
+            {"label": "C", "text": "Trench collapses", "is_correct": false},
+            {"label": "D", "text": "Electrical accident", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The main cause of deaths on construction sites is:",
+        "options": [
+            {"label": "A", "text": "Fire", "is_correct": false},
+            {"label": "B", "text": "Falls from height", "is_correct": true},
+            {"label": "C", "text": "Being run over by plant", "is_correct": false},
+            {"label": "D", "text": "Excavation collapse", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How many people should be working on a ladder at one time?",
+        "options": [
+            {"label": "A", "text": "One", "is_correct": true},
+            {"label": "B", "text": "Two", "is_correct": false},
+            {"label": "C", "text": "Three if it is long enough", "is_correct": false},
+            {"label": "D", "text": "One on each section of an extension ladder", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Ladders should be set at a slope of approximately:",
+        "options": [
+            {"label": "A", "text": "1 out for every 3 up", "is_correct": false},
+            {"label": "B", "text": "4 out for every 1 up", "is_correct": false},
+            {"label": "C", "text": "1 out for every 1 up", "is_correct": false},
+            {"label": "D", "text": "1 out for every 4 up", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Why should aluminium ladders be kept away from wet lime or cement?",
+        "options": [
+            {"label": "A", "text": "It will stain your clothes", "is_correct": false},
+            {"label": "B", "text": "The ladder may become statically charged", "is_correct": false},
+            {"label": "C", "text": "It may corrode the ladder", "is_correct": true},
+            {"label": "D", "text": "It will stain the aluminium", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Before being used, a ladder should be inspected:",
+        "options": [
+            {"label": "A", "text": "By the foreman", "is_correct": false},
+            {"label": "B", "text": "By the user", "is_correct": true},
+            {"label": "C", "text": "By the manufacturer", "is_correct": false},
+            {"label": "D", "text": "By the Safety Officer", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Ladders should be:",
+        "options": [
+            {"label": "A", "text": "In good condition", "is_correct": false},
+            {"label": "B", "text": "Tied or footed", "is_correct": false},
+            {"label": "C", "text": "Tied or footed AND at the right angle AND in good condition", "is_correct": true},
+            {"label": "D", "text": "At the right angle", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A ladder giving access to a scaffold can generally be safely used, provided that:",
+        "options": [
+            {"label": "A", "text": "The foot of the ladder is firmly wedged", "is_correct": false},
+            {"label": "B", "text": "It does not move when you climb up it", "is_correct": false},
+            {"label": "C", "text": "Any broken rungs are clearly marked", "is_correct": false},
+            {"label": "D", "text": "It is tied and extends at least 1 metre above the platform", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is the ideal angle for a ladder against a wall and floor?",
+        "options": [
+            {"label": "A", "text": "One metre up for every metre out from the wall", "is_correct": false},
+            {"label": "B", "text": "One metre up for every two metres out from the wall", "is_correct": false},
+            {"label": "C", "text": "Two metres up for every metre out from the wall", "is_correct": false},
+            {"label": "D", "text": "Four metres up for every metre out from the wall", "is_correct": true}
+        ]
+    },
+	{
+        "question": "The rung of a wooden ladder has started to split, what should you do?",
+        "options": [
+            {"label": "A", "text": "Do not use it, tell your supervisor", "is_correct": true},
+            {"label": "B", "text": "Cut the bad bit out", "is_correct": false},
+            {"label": "C", "text": "Tape it up", "is_correct": false},
+            {"label": "D", "text": "Jump on it to see if it holds your weight", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Ladders should not be painted because:",
+        "options": [
+            {"label": "A", "text": "Regular repainting will be necessary", "is_correct": false},
+            {"label": "B", "text": "The paint will make them slippery to use", "is_correct": false},
+            {"label": "C", "text": "The paint may not be suitable on metal parts of the ladder", "is_correct": false},
+            {"label": "D", "text": "The paint may cover a defect or damaged part of the ladder", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When can you work from a ladder?",
+        "options": [
+            {"label": "A", "text": "For short periods and then only if it is safe to do so", "is_correct": true},
+            {"label": "B", "text": "When it is long enough", "is_correct": false},
+            {"label": "C", "text": "When it is available", "is_correct": false},
+            {"label": "D", "text": "When not being used for access", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When working above public areas, what should be considered?",
+        "options": [
+            {"label": "A", "text": "Preventing complaints from the public", "is_correct": false},
+            {"label": "B", "text": "The danger of falling materials", "is_correct": true},
+            {"label": "C", "text": "Keeping the job going", "is_correct": false},
+            {"label": "D", "text": "Keeping the areas open to the public", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A scaffold tower must be erected by:",
+        "options": [
+            {"label": "A", "text": "A trained and competent person", "is_correct": true},
+            {"label": "B", "text": "The hire company who supply it", "is_correct": false},
+            {"label": "C", "text": "The site foreman", "is_correct": false},
+            {"label": "D", "text": "Senior site staff", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the minimum height of the top guard-rail of a scaffold above the edge from which someone is liable to fall?",
+        "options": [
+            {"label": "A", "text": "470mm", "is_correct": false},
+            {"label": "B", "text": "910mm", "is_correct": false},
+            {"label": "C", "text": "950mm", "is_correct": true},
+            {"label": "D", "text": "2 metres", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A working platform used for construction work, and from which a person could fall 2 metres or more, must not be used unless it has been inspected (and a report is subsequently prepared) by a competent person:",
+        "options": [
+            {"label": "A", "text": "Only after an accident", "is_correct": false},
+            {"label": "B", "text": "That day", "is_correct": false},
+            {"label": "C", "text": "Within the previous seven days", "is_correct": true},
+            {"label": "D", "text": "Within the previous month", "is_correct": false}
+        ]
+    },
+    {
+        "question": "On a mobile elevating work platform, what should you attach your safety harness to?",
+        "options": [
+            {"label": "A", "text": "A secure anchorage point inside the platform", "is_correct": true},
+            {"label": "B", "text": "A strong part of the structure you are working on", "is_correct": false},
+            {"label": "C", "text": "The boom of the machine", "is_correct": false},
+            {"label": "D", "text": "A nearby pipe or scaffold", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You have been asked to operate a cherry-picker (mobile elevated work platform) when it is very windy. What should your FIRST consideration be?",
+        "options": [
+            {"label": "A", "text": "Wear a safety harness and clip it to the structure that you are working on", "is_correct": false},
+            {"label": "B", "text": "Does the wind-speed make it unsafe to use the machine", "is_correct": true},
+            {"label": "C", "text": "Wear an extra layer of clothing to keep warm", "is_correct": false},
+            {"label": "D", "text": "Tie all light-weight objects to the hand-rails of the basket", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you have to work at height and it is not possible to erect a scaffold, or use any other type of working platform or mobile elevating work platform, then you should:",
+        "options": [
+            {"label": "A", "text": "Work without fall protection, provided you have a mate with you", "is_correct": false},
+            {"label": "B", "text": "Wear a harness and lanyard at all times", "is_correct": true},
+            {"label": "C", "text": "Work without fall protection, provided the weather is not too windy", "is_correct": false},
+            {"label": "D", "text": "Work without fall protection at all times when no one else is about", "is_correct": false}
+        ]
+    },
+	{
+        "question": "When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?",
+        "options": [
+            {"label": "A", "text": "Make sure that everyone is told where the panels are and to avoid treading on them", "is_correct": false},
+            {"label": "B", "text": "Cover the fragile panels with a strong material and secure the covers to stop them being dislodged", "is_correct": true},
+            {"label": "C", "text": "Remove the panels carefully to leave an open space", "is_correct": false},
+            {"label": "D", "text": "It shouldn’t be necessary to do anything, everyone knows the dangers", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?",
+        "options": [
+            {"label": "A", "text": "It is safe to walk on the purlins", "is_correct": false},
+            {"label": "B", "text": "Walk straight across the roof to where you need to get to", "is_correct": false},
+            {"label": "C", "text": "As long as you avoid any fragile areas it is safe", "is_correct": false},
+            {"label": "D", "text": "Crawling boards should always be used", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Half the deaths on construction sites are caused by which one of the following?",
+        "options": [
+            {"label": "A", "text": "Falls from heights", "is_correct": true},
+            {"label": "B", "text": "Electrical misuse", "is_correct": false},
+            {"label": "C", "text": "Working in trenches/confined spaces", "is_correct": false},
+            {"label": "D", "text": "Misuse of plant and machinery", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What should you do if your work activity requires you to wear a full body safety harness and one is not available?",
+        "options": [
+            {"label": "A", "text": "Make a harness from items found on site", "is_correct": false},
+            {"label": "B", "text": "Carry on working and hope that everything will be alright", "is_correct": false},
+            {"label": "C", "text": "Borrow a harness from a colleague", "is_correct": false},
+            {"label": "D", "text": "Stop work immediately and tell your supervisor that you do not have the correct PPE", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Under what circumstances do the Work at Height Regulations permit a stepladder to be used on site?",
+        "options": [
+            {"label": "A", "text": "Never – stepladders are banned", "is_correct": false},
+            {"label": "B", "text": "At any time", "is_correct": false},
+            {"label": "C", "text": "Provided you can’t fall 2 metres or more", "is_correct": false},
+            {"label": "D", "text": "Only when a risk assessment shows that safer alternatives have been ruled out and the task is of low risk and of short duration", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is the best method of securing a ladder?",
+        "options": [
+            {"label": "A", "text": "Tying it to a suitable point", "is_correct": true},
+            {"label": "B", "text": "Using an effective ladder stability device", "is_correct": false},
+            {"label": "C", "text": "Wedging the ladder (e.g. against a wall)", "is_correct": false},
+            {"label": "D", "text": "Having the ladder footed", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Of the following, which is the POOREST method of securing a ladder?",
+        "options": [
+            {"label": "A", "text": "Securing the base of the ladder", "is_correct": false},
+            {"label": "B", "text": "Tying the ladder", "is_correct": false},
+            {"label": "C", "text": "Having someone foot the ladder", "is_correct": true},
+            {"label": "D", "text": "Using a ladder stability device", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Prior to moving a mobile tower scaffold, the platform height should be reduced to a maximum of:",
+        "options": [
+            {"label": "A", "text": "2 metres", "is_correct": false},
+            {"label": "B", "text": "3 metres", "is_correct": false},
+            {"label": "C", "text": "4 metres", "is_correct": true},
+            {"label": "D", "text": "5 metres", "is_correct": false}
+        ]
+    }
+]

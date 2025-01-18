@@ -1,0 +1,326 @@
+[
+    {
+        "question": "In accordance with the Electricity at Work regulations, when considering whether to work live, a responsible person should:",
+        "options": [
+            {"label": "A", "text": "Carry out a risk assessment", "is_correct": true},
+            {"label": "B", "text": "Only work dead", "is_correct": false},
+            {"label": "C", "text": "Only work live", "is_correct": false},
+            {"label": "D", "text": "Do as the client demands", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The normal procedure for working on electrical equipment should be which one of the following?",
+        "options": [
+            {"label": "A", "text": "Dead working", "is_correct": true},
+            {"label": "B", "text": "Wearing insulated gloves", "is_correct": false},
+            {"label": "C", "text": "Using insulated tools", "is_correct": false},
+            {"label": "D", "text": "Live working", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Test instruments used for working on electrical systems should:",
+        "options": [
+            {"label": "A", "text": "Be yellow in colour", "is_correct": false},
+            {"label": "B", "text": "Be less than 10 years old", "is_correct": false},
+            {"label": "C", "text": "Have non-insulated test probes", "is_correct": false},
+            {"label": "D", "text": "Have insulated test probes", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Under the Electricity at Work Regulations, live working is considered:",
+        "options": [
+            {"label": "A", "text": "As entirely acceptable", "is_correct": false},
+            {"label": "B", "text": "To be normally permitted", "is_correct": false},
+            {"label": "C", "text": "Only to be allowed in exceptional circumstances", "is_correct": true},
+            {"label": "D", "text": "Never to be allowed", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following would you use to replace the fuse in a plug if fuses were NOT available?",
+        "options": [
+            {"label": "A", "text": "A nail", "is_correct": false},
+            {"label": "B", "text": "A piece of silver paper", "is_correct": false},
+            {"label": "C", "text": "A bit of wire", "is_correct": false},
+            {"label": "D", "text": "None of the options listed", "is_correct": true}
+        ]
+    },
+    {
+        "question": "To prove a circuit or equipment is dead after isolation, what is the FIRST activity in the sequence of events?",
+        "options": [
+            {"label": "A", "text": "Make sure equipment is not working", "is_correct": false},
+            {"label": "B", "text": "Check between line and earth", "is_correct": false},
+            {"label": "C", "text": "Check that the voltage detector is working on a proving device, known live source or inbuilt test feature", "is_correct": true},
+            {"label": "D", "text": "Check between line and neutral", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The nominal single-phase voltage in the UK is:",
+        "options": [
+            {"label": "A", "text": "230 volts", "is_correct": true},
+            {"label": "B", "text": "240 volts", "is_correct": false},
+            {"label": "C", "text": "415 volts", "is_correct": false},
+            {"label": "D", "text": "400 volts", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When is live working permissible?",
+        "options": [
+            {"label": "A", "text": "When the person carrying out the work is a competent person", "is_correct": false},
+            {"label": "B", "text": "When it is unreasonable in all circumstances for the equipment to be made dead and suitable precautions are taken", "is_correct": true},
+            {"label": "C", "text": "When the means of isolation cannot be identified", "is_correct": false},
+            {"label": "D", "text": "When the person working on the equipment is wearing rubber gloves", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a requirement of low voltage safe isolation practice?",
+        "options": [
+            {"label": "A", "text": "Ensuring that the correct point of isolation is identified", "is_correct": false},
+            {"label": "B", "text": "The person carrying out the work is issued with insulating gloves", "is_correct": true},
+            {"label": "C", "text": "A caution notice should be applied at the point of isolation", "is_correct": false},
+            {"label": "D", "text": "The conductors are proved to be dead at the point of work", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The specific effects on the human body of a major electric shock are one of the following:",
+        "options": [
+            {"label": "A", "text": "Dermatitis", "is_correct": false},
+            {"label": "B", "text": "Burns and cardiac arrest", "is_correct": true},
+            {"label": "C", "text": "Broken bones", "is_correct": false},
+            {"label": "D", "text": "Chest pains", "is_correct": false}
+        ]
+    },
+	{
+        "question": "The lowest level of electrical current which can harm the human body is normally measured in:",
+        "options": [
+            {"label": "A", "text": "Microamps", "is_correct": false},
+            {"label": "B", "text": "Kiloamps", "is_correct": false},
+            {"label": "C", "text": "Amps", "is_correct": false},
+            {"label": "D", "text": "Milliamps", "is_correct": true}
+        ]
+    },
+    {
+        "question": "With regard to the effect of electrical current on the human body, one of the following is correct:",
+        "options": [
+            {"label": "A", "text": "A 6 amp circuit breaker should prevent a person receiving a fatal electric shock", "is_correct": false},
+            {"label": "B", "text": "A 3 amp fuse should prevent a person receiving a fatal electric shock", "is_correct": false},
+            {"label": "C", "text": "A 30 mA Residual Current Device (RCD) should prevent a person receiving a fatal electric shock", "is_correct": true},
+            {"label": "D", "text": "A 5 amp rewireable fuse should prevent a person receiving a fatal electric shock", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Where mains voltage is used to supply portable equipment on a construction site, what additional protection is required?",
+        "options": [
+            {"label": "A", "text": "Step-down transformer", "is_correct": false},
+            {"label": "B", "text": "Step-down generator", "is_correct": false},
+            {"label": "C", "text": "Cable avoidance tool", "is_correct": false},
+            {"label": "D", "text": "Residual Current Device (RCD)", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What colour cable USUALLY signifies 110 volt power supply on site?",
+        "options": [
+            {"label": "A", "text": "Black", "is_correct": false},
+            {"label": "B", "text": "Red", "is_correct": false},
+            {"label": "C", "text": "Blue", "is_correct": false},
+            {"label": "D", "text": "Yellow", "is_correct": true}
+        ]
+    },
+    {
+        "question": "A portable electric generator on site has two power outlets, 110 volts and 230 volts. What colour would the 110 volt outlet be?",
+        "options": [
+            {"label": "A", "text": "Black", "is_correct": false},
+            {"label": "B", "text": "Yellow", "is_correct": true},
+            {"label": "C", "text": "Red", "is_correct": false},
+            {"label": "D", "text": "Blue", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Where there is no local means of isolation for equipment or circuits to be worked on, which of the following is the preferred method of isolation?",
+        "options": [
+            {"label": "A", "text": "Use a suitable device such as a circuit breaker", "is_correct": true},
+            {"label": "B", "text": "Isolation of the individual circuit breaker or fuse", "is_correct": false},
+            {"label": "C", "text": "Pulling out the distributor’s cut-out fuse", "is_correct": false},
+            {"label": "D", "text": "Disconnecting the individual circuit from the DB", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What action should you take if a workmate gets an electric shock?",
+        "options": [
+            {"label": "A", "text": "Phone the electricity board immediately", "is_correct": false},
+            {"label": "B", "text": "Dial 999 and ask for the fire brigade", "is_correct": false},
+            {"label": "C", "text": "Cut off the power and call for help", "is_correct": true},
+            {"label": "D", "text": "Try to pull them to safety", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A residual current device is designed to operate in the event of one of the following:",
+        "options": [
+            {"label": "A", "text": "Overload", "is_correct": false},
+            {"label": "B", "text": "Earth fault", "is_correct": true},
+            {"label": "C", "text": "Lightning strike on the supply", "is_correct": false},
+            {"label": "D", "text": "Short-circuit", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Electrical installations on construction sites should be periodically inspected and tested:",
+        "options": [
+            {"label": "A", "text": "Every 3 months", "is_correct": true},
+            {"label": "B", "text": "Every year", "is_correct": false},
+            {"label": "C", "text": "Every 6 months", "is_correct": false},
+            {"label": "D", "text": "Every month", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The maximum AC voltage which the human body can withstand without long term physiological effects in dry conditions is:",
+        "options": [
+            {"label": "A", "text": "110 volts", "is_correct": false},
+            {"label": "B", "text": "230 volts", "is_correct": false},
+            {"label": "C", "text": "50 volts", "is_correct": true},
+            {"label": "D", "text": "400 volts", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Which of the following statements is true with regard to the dangers of electricity?",
+        "options": [
+            {"label": "A", "text": "Electricity is perfectly safe so long as you wear cotton gloves", "is_correct": false},
+            {"label": "B", "text": "Electricity is only dangerous if you are not wearing wellington boots", "is_correct": false},
+            {"label": "C", "text": "Electricity is only dangerous in wet weather", "is_correct": false},
+            {"label": "D", "text": "Electricity is dangerous at any time because you cannot tell by looking at a cable whether or not it is live", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What is the most serious effect that electric shock can have if you come into contact with a live part?",
+        "options": [
+            {"label": "A", "text": "The electric current can cause a slight tingling in the fingers", "is_correct": false},
+            {"label": "B", "text": "The electric current can cause burn marks on the fingers", "is_correct": false},
+            {"label": "C", "text": "The electric current can cause the heart to stop, resulting in death", "is_correct": true},
+            {"label": "D", "text": "The electric current can cause the finger muscles to twitch", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Your job involves you working near to hanging electrical cables which have bare ends. What should you do?",
+        "options": [
+            {"label": "A", "text": "Touch the cables to see if they are live", "is_correct": false},
+            {"label": "B", "text": "Carry on working, as there shouldn’t be a problem", "is_correct": false},
+            {"label": "C", "text": "Inform your supervisor and keep well away", "is_correct": true},
+            {"label": "D", "text": "Attempt to push the cables back into the ceiling void so that you can start work", "is_correct": false}
+        ]
+    },
+    {
+        "question": "For all live working activities it is necessary to:",
+        "options": [
+            {"label": "A", "text": "Carry out a risk assessment as required by the EAW Regulations", "is_correct": true},
+            {"label": "B", "text": "Wear rubber gloves only", "is_correct": false},
+            {"label": "C", "text": "Be accompanied", "is_correct": false},
+            {"label": "D", "text": "Keep your fingers crossed", "is_correct": false}
+        ]
+    },
+    {
+        "question": "An electrical Permit to Work is primarily a statement that:",
+        "options": [
+            {"label": "A", "text": "Someone else has taken responsibility for the work", "is_correct": false},
+            {"label": "B", "text": "The circuit or equipment is live", "is_correct": false},
+            {"label": "C", "text": "Certain instructions need to be followed", "is_correct": false},
+            {"label": "D", "text": "The circuit or equipment has been isolated and is safe to work on", "is_correct": true}
+        ]
+    },
+    {
+        "question": "The probes of voltage detectors and test instruments used on electrical systems should be:",
+        "options": [
+            {"label": "A", "text": "Manufactured in the UK", "is_correct": false},
+            {"label": "B", "text": "Accompanied by a calibration certificate", "is_correct": false},
+            {"label": "C", "text": "Shaped or have barriers to prevent finger contact with the tips", "is_correct": true},
+            {"label": "D", "text": "Coloured red", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following does the Electricity at Work (EAW) regulations apply to?",
+        "options": [
+            {"label": "A", "text": "All persons engaged for work purposes", "is_correct": true},
+            {"label": "B", "text": "Self-employed persons only", "is_correct": false},
+            {"label": "C", "text": "Employees only", "is_correct": false},
+            {"label": "D", "text": "Employers only", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Electricity at Work Regulations require that:",
+        "options": [
+            {"label": "A", "text": "Persons working with electricity must have the appropriate level of knowledge and experience", "is_correct": true},
+            {"label": "B", "text": "A training course is necessary before anyone can work with electricity", "is_correct": false},
+            {"label": "C", "text": "Only electricians can work with electricity", "is_correct": false},
+            {"label": "D", "text": "Anyone supervised can work with electricity", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The Electricity at Work Regulations apply to:",
+        "options": [
+            {"label": "A", "text": "Only low voltage systems", "is_correct": false},
+            {"label": "B", "text": "Only extra-low voltage systems", "is_correct": false},
+            {"label": "C", "text": "All voltage systems", "is_correct": true},
+            {"label": "D", "text": "Only high voltage systems", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following should be used to prove a circuit or equipment is dead after isolation?",
+        "options": [
+            {"label": "A", "text": "A lamp holder with a length of flex attached", "is_correct": false},
+            {"label": "B", "text": "A proprietary test lamp or two-pole voltage detector", "is_correct": true},
+            {"label": "C", "text": "A voltage stick", "is_correct": false},
+            {"label": "D", "text": "A multimeter", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Which of the following is NOT a suitable means of isolating a circuit?",
+        "options": [
+            {"label": "A", "text": "Removing a fuse and locking the distribution board", "is_correct": false},
+            {"label": "B", "text": "Putting insulating tape over the circuit breaker", "is_correct": true},
+            {"label": "C", "text": "Padlocking the isolating switch", "is_correct": false},
+            {"label": "D", "text": "Fitting a padlocked circuit breaker lockout", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following work procedures on electrical systems will always require a permit-to-work to be issued?",
+        "options": [
+            {"label": "A", "text": "Dead working on low-voltage systems", "is_correct": false},
+            {"label": "B", "text": "Live working on low-voltage systems", "is_correct": false},
+            {"label": "C", "text": "Dead working on high-voltage systems", "is_correct": true},
+            {"label": "D", "text": "Live working on high-voltage systems", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Optical fibre cable remnants should not be left lying around on site because:",
+        "options": [
+            {"label": "A", "text": "They can be hot and burn upon contact", "is_correct": false},
+            {"label": "B", "text": "Laser beams still exist in the cut pieces", "is_correct": false},
+            {"label": "C", "text": "They can pierce the skin or eyes", "is_correct": true},
+            {"label": "D", "text": "They are toxic", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Why should the end of an optical fibre cable never be pointed towards your own or anyone else’s eyes?",
+        "options": [
+            {"label": "A", "text": "The beam can transfer a strong electric current", "is_correct": false},
+            {"label": "B", "text": "The colour of the beam is very hypnotic", "is_correct": false},
+            {"label": "C", "text": "The beam can bore a hole through the skin", "is_correct": false},
+            {"label": "D", "text": "The beam can damage the eyes", "is_correct": true}
+        ]
+    },
+    {
+        "question": "The use of a multi-lock hasp with the appropriate number of padlocks is a recommended method of safe isolation where:",
+        "options": [
+            {"label": "A", "text": "Individual circuit breaker locking off devices are not available", "is_correct": false},
+            {"label": "B", "text": "Individual circuit breakers are not identified at the distribution board", "is_correct": false},
+            {"label": "C", "text": "More than one person will be working on circuits supplied from the same distribution board", "is_correct": true},
+            {"label": "D", "text": "You know the health and safety inspector is in the area", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following procedures should be used when more than one person will be working on circuits supplied from a distribution board which has been switched off?",
+        "options": [
+            {"label": "A", "text": "The use of a multi-lock hasp on the isolator with a padlock for each operative", "is_correct": true},
+            {"label": "B", "text": "Blowing a horn before the power is switched on again", "is_correct": false},
+            {"label": "C", "text": "Giving each operative a volt stick", "is_correct": false},
+            {"label": "D", "text": "Telling everyone what time the power will be switched on again", "is_correct": false}
+        ]
+    }
+]

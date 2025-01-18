@@ -1,0 +1,146 @@
+[
+    {
+        "question": "Why may a confined space be dangerous to work in?",
+        "options": [
+            {"label": "A", "text": "There may not be sufficient working space", "is_correct": false},
+            {"label": "B", "text": "Air in the space may be unbreathable due to poisonous gas", "is_correct": false},
+            {"label": "C", "text": "Temperature and poor ventilation may affect the worker", "is_correct": false},
+            {"label": "D", "text": "All of the hazards mentioned", "is_correct": true}
+        ]
+    },
+    {
+        "question": "What must be considered first when planning to carry out work in a confined space?",
+        "options": [
+            {"label": "A", "text": "Has the job been priced properly", "is_correct": false},
+            {"label": "B", "text": "Have the correct tools been arranged", "is_correct": false},
+            {"label": "C", "text": "Has sufficient manpower been allocated", "is_correct": false},
+            {"label": "D", "text": "Can the work be done from the outside", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When working in a confined space, such as a sewer, what danger may occur?",
+        "options": [
+            {"label": "A", "text": "Getting wet through", "is_correct": false},
+            {"label": "B", "text": "Boredom", "is_correct": false},
+            {"label": "C", "text": "Not enough time for the job to be done", "is_correct": false},
+            {"label": "D", "text": "Build-up of harmful gases", "is_correct": true}
+        ]
+    },
+    {
+        "question": "To determine the safety of the atmosphere in an excavation, which of the following is essential?",
+        "options": [
+            {"label": "A", "text": "Sniffing the atmosphere after entry", "is_correct": false},
+            {"label": "B", "text": "Using a gas detector", "is_correct": true},
+            {"label": "C", "text": "Only entering for a short period to enable a quick escape", "is_correct": false},
+            {"label": "D", "text": "Looking for toxic gases", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Before entering an excavation to start work, it must first be:",
+        "options": [
+            {"label": "A", "text": "Inspected by a competent person", "is_correct": true},
+            {"label": "B", "text": "Covered over and left overnight", "is_correct": false},
+            {"label": "C", "text": "Filled with water then drained", "is_correct": false},
+            {"label": "D", "text": "Inspected by the HSE", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the purpose of using a ‘permit to work’ system?",
+        "options": [
+            {"label": "A", "text": "To ensure the job is carried out by the quickest method", "is_correct": false},
+            {"label": "B", "text": "To help ensure a safe system of work", "is_correct": true},
+            {"label": "C", "text": "To ensure that the client will pay for the work", "is_correct": false},
+            {"label": "D", "text": "To enable tools and equipment to be properly checked before the commencement of work", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Why may young people be more at risk on site?",
+        "options": [
+            {"label": "A", "text": "There is no specific legislation applying to them", "is_correct": false},
+            {"label": "B", "text": "They are usually left to work alone to gain experience", "is_correct": false},
+            {"label": "C", "text": "There is no requirement to provide PPE to young people", "is_correct": false},
+            {"label": "D", "text": "They are inexperienced and may not recognise danger", "is_correct": true}
+        ]
+    },
+    {
+        "question": "You have to enter a manhole in which you know there are toxic gases. You have all the PPE but there does not appear to be a rescue plan in place. What should you do?",
+        "options": [
+            {"label": "A", "text": "Just get on and do the job, it will probably be alright", "is_correct": false},
+            {"label": "B", "text": "Plan to carry out the job in short bursts", "is_correct": false},
+            {"label": "C", "text": "Do not enter the manhole until a rescue plan and rescue equipment are in place", "is_correct": true},
+            {"label": "D", "text": "Ask your mate to stand-by at the top of the manhole with a length of rope", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You have to enter a manhole in which you believe there could be toxic gases. You have not been provided with any Respiratory Protective Equipment (RPE). What should you do?",
+        "options": [
+            {"label": "A", "text": "Tell your supervisor that you will need RPE, and if necessary, training in confined space working", "is_correct": true},
+            {"label": "B", "text": "Sniff the atmosphere in the manhole to see if you can smell harmful gases", "is_correct": false},
+            {"label": "C", "text": "Look into the manhole to see if you can see any harmful gases", "is_correct": false},
+            {"label": "D", "text": "Just get on with the job, and accept the risks", "is_correct": false}
+        ]
+    },
+    {
+        "question": "While digging a trench, you uncover a length of yellow marker tape at a depth of about 150mm. What does the presence of the marker tape mean?",
+        "options": [
+            {"label": "A", "text": "The area has a high water-table and precautions must be taken to prevent an in-rush of water", "is_correct": false},
+            {"label": "B", "text": "There is a buried electrical cable and further excavation must be carried out with care", "is_correct": true},
+            {"label": "C", "text": "There is contaminated soil below the level of the marker tape and all excavation must stop", "is_correct": false},
+            {"label": "D", "text": "The excavation has reached a depth where the sides must now be supported", "is_correct": false}
+        ]
+    },
+	{
+        "question": "A Cable Avoidance Tool (C.A.T.) and a ‘Genny’ (generator) can be used successfully to locate underground cables by whom:",
+        "options": [
+            {"label": "A", "text": "Anyone", "is_correct": false},
+            {"label": "B", "text": "A competent person after training", "is_correct": true},
+            {"label": "C", "text": "Any electricity company employee", "is_correct": false},
+            {"label": "D", "text": "The site foreman", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When exposing underground power cables, which method of excavation should you use?",
+        "options": [
+            {"label": "A", "text": "A 360 degree excavator with rubber tyres", "is_correct": false},
+            {"label": "B", "text": "A pickaxe", "is_correct": false},
+            {"label": "C", "text": "Hand digging", "is_correct": true},
+            {"label": "D", "text": "A kango hammer", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When do special precautions need to be taken when working near overhead electric power lines?",
+        "options": [
+            {"label": "A", "text": "Only if cranes etc. are being used", "is_correct": false},
+            {"label": "B", "text": "Only if someone could touch a line with their bare hands", "is_correct": false},
+            {"label": "C", "text": "Only if plant has to pass under the lines", "is_correct": false},
+            {"label": "D", "text": "Whenever work areas will be near or beneath the lines", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When working alone:",
+        "options": [
+            {"label": "A", "text": "Make sure someone responsible knows where you are", "is_correct": true},
+            {"label": "B", "text": "You can do away with protective equipment", "is_correct": false},
+            {"label": "C", "text": "Don’t bother anyone if you have a problem, always sort it out yourself", "is_correct": false},
+            {"label": "D", "text": "Wear headphones, it will make the day go more quickly", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You have to walk across a site several times a day, but have to dodge a lot of site traffic. The first thing you should do is:",
+        "options": [
+            {"label": "A", "text": "Have a word with the drivers", "is_correct": false},
+            {"label": "B", "text": "Walk around the edges of the site to keep out of the way", "is_correct": false},
+            {"label": "C", "text": "Tell your supervisor about the danger", "is_correct": true},
+            {"label": "D", "text": "Jump on the back of a vehicle if you can, it’s safer than walking", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A mobile plant operator can let you ride in the machine:",
+        "options": [
+            {"label": "A", "text": "If you have a long way to go", "is_correct": false},
+            {"label": "B", "text": "If it is raining", "is_correct": false},
+            {"label": "C", "text": "If it is designed to carry passengers", "is_correct": true},
+            {"label": "D", "text": "At any time", "is_correct": false}
+        ]
+    }
+]

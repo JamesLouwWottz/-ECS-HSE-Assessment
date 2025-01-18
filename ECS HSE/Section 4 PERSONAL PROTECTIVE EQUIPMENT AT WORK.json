@@ -1,0 +1,256 @@
+[
+    {
+        "question": "When working in dusty conditions, what of the following would give the LEAST level of protection?",
+        "options": [
+            {"label": "A", "text": "Compressed airline breathing helmet", "is_correct": false},
+            {"label": "B", "text": "Positive pressure powered respirator", "is_correct": false},
+            {"label": "C", "text": "Self-contained breathing apparatus", "is_correct": false},
+            {"label": "D", "text": "Half mask dust respirator", "is_correct": true}
+        ]
+    },
+    {
+        "question": "In hot weather which one of the following is correct with regard to safety helmets?",
+        "options": [
+            {"label": "A", "text": "You can take off your helmet while working inside the building", "is_correct": false},
+            {"label": "B", "text": "You must continue to wear your helmet", "is_correct": true},
+            {"label": "C", "text": "You can drill holes in your safety hat for ventilation", "is_correct": false},
+            {"label": "D", "text": "You do not need to wear your helmet", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following should you do if your personal protective equipment (PPE) is damaged?",
+        "options": [
+            {"label": "A", "text": "Obtain new equipment when available", "is_correct": false},
+            {"label": "B", "text": "Report to your Supervisor without delay", "is_correct": true},
+            {"label": "C", "text": "Reduce the amount of time you use it", "is_correct": false},
+            {"label": "D", "text": "Carry on working", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If personal protective equipment (PPE) is defective, what should you do?",
+        "options": [
+            {"label": "A", "text": "Complain to the Health and Safety Inspector", "is_correct": false},
+            {"label": "B", "text": "Get your workmate to mend it if possible", "is_correct": false},
+            {"label": "C", "text": "Report it to your supervisor", "is_correct": true},
+            {"label": "D", "text": "Repair if possible and continue to use it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "In normal use, what item of PPE is NOT essential for the operator of a cartridge-operated tool, such as a nail gun?",
+        "options": [
+            {"label": "A", "text": "Safety eyewear", "is_correct": false},
+            {"label": "B", "text": "Hearing protection", "is_correct": false},
+            {"label": "C", "text": "Wellington boots", "is_correct": true},
+            {"label": "D", "text": "Safety helmet", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Can you opt out of wearing personal protective equipment (PPE)?",
+        "options": [
+            {"label": "A", "text": "Yes, by informing the site supervisor", "is_correct": false},
+            {"label": "B", "text": "Yes, by writing officially to your employer", "is_correct": false},
+            {"label": "C", "text": "No, you cannot opt out", "is_correct": true},
+            {"label": "D", "text": "Yes, if it is uncomfortable", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What is the most important item of personal protective equipment (PPE) when working on or near a highway?",
+        "options": [
+            {"label": "A", "text": "Safety footwear", "is_correct": false},
+            {"label": "B", "text": "Waterproof clothing", "is_correct": false},
+            {"label": "C", "text": "Hard hat", "is_correct": false},
+            {"label": "D", "text": "High visibility vest", "is_correct": true}
+        ]
+    },
+    {
+        "question": "If you are drilling into concrete with a masonry drill, in which one of the following circumstances will you need to wear eye protection?",
+        "options": [
+            {"label": "A", "text": "Always", "is_correct": true},
+            {"label": "B", "text": "Only when drilling overhead", "is_correct": false},
+            {"label": "C", "text": "Only if the drill is bigger than 10mm", "is_correct": false},
+            {"label": "D", "text": "Not if drilling into the floor", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When must you wear all personal protective equipment (PPE) provided by your employer?",
+        "options": [
+            {"label": "A", "text": "As instructed by your employer", "is_correct": true},
+            {"label": "B", "text": "Only if it fits", "is_correct": false},
+            {"label": "C", "text": "When you want to", "is_correct": false},
+            {"label": "D", "text": "Only when you need to", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When MUST an employer provide their employees with personal protective equipment (PPE)?",
+        "options": [
+            {"label": "A", "text": "When they may be exposed to a risk to their health and safety which cannot be controlled another way", "is_correct": true},
+            {"label": "B", "text": "Twice a year", "is_correct": false},
+            {"label": "C", "text": "If the client or main contractor specifies it in the contract", "is_correct": false},
+            {"label": "D", "text": "Every 5 years", "is_correct": false}
+        ]
+    },
+	{
+        "question": "What type of eye protection would you wear when using a cartridge-operated tool, such as a nail gun?",
+        "options": [
+            {"label": "A", "text": "Impact goggles", "is_correct": true},
+            {"label": "B", "text": "Sunglasses", "is_correct": false},
+            {"label": "C", "text": "Safety spectacles", "is_correct": false},
+            {"label": "D", "text": "Chemical protection glasses", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following must your safety helmet comply with to meet with the requirements of the Personal Protective Equipment at Work Regulations?",
+        "options": [
+            {"label": "A", "text": "It can be adjusted to suit your head size", "is_correct": true},
+            {"label": "B", "text": "It is a good visible color", "is_correct": false},
+            {"label": "C", "text": "It has a label with your name on it", "is_correct": false},
+            {"label": "D", "text": "It is less than 1 year old", "is_correct": false}
+        ]
+    },
+    {
+        "question": "In which of the following ways should you wear your safety helmet?",
+        "options": [
+            {"label": "A", "text": "With the peak raised to deflect falling material", "is_correct": false},
+            {"label": "B", "text": "With the helmet back to front", "is_correct": false},
+            {"label": "C", "text": "With the peak raised to give good vision", "is_correct": false},
+            {"label": "D", "text": "Square on your head, properly adjusted", "is_correct": true}
+        ]
+    },
+    {
+        "question": "When an employee has been issued with eye protection, what are their duties under the Personal Protective Equipment at Work Regulations?",
+        "options": [
+            {"label": "A", "text": "To ensure that they are the right type of protector", "is_correct": false},
+            {"label": "B", "text": "Not to loan the equipment to other operatives", "is_correct": false},
+            {"label": "C", "text": "To use the protection in accordance with training and instruction", "is_correct": true},
+            {"label": "D", "text": "To pay for replacement of lost eye protection", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When should you wear safety footwear on site?",
+        "options": [
+            {"label": "A", "text": "Only when working on scaffolds", "is_correct": false},
+            {"label": "B", "text": "When there is a risk of a foot injury", "is_correct": true},
+            {"label": "C", "text": "Only when working outdoors", "is_correct": false},
+            {"label": "D", "text": "Only if the site conditions are wet", "is_correct": false}
+        ]
+    },
+    {
+        "question": "With regard to the use of personal protective equipment (PPE), which one of the following statements is true?",
+        "options": [
+            {"label": "A", "text": "If you do not use the personal protective equipment (PPE) provided you will probably not come to any harm", "is_correct": false},
+            {"label": "B", "text": "Personal protective equipment (PPE) protects only the user from the dangers present", "is_correct": true},
+            {"label": "C", "text": "Personal protective equipment (PPE) need only be provided if it is not too expensive", "is_correct": false},
+            {"label": "D", "text": "Personal protective equipment (PPE) need only be used if it is available", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following statements is TRUE when an employer issues personal protective equipment (PPE)?",
+        "options": [
+            {"label": "A", "text": "The employer can charge you for the full cost of it", "is_correct": false},
+            {"label": "B", "text": "The employer cannot charge you for it", "is_correct": true},
+            {"label": "C", "text": "The employer can charge you for up to half the cost of it", "is_correct": false},
+            {"label": "D", "text": "The employer can only charge you for it if you lose or damage it", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Which one of the following must apply to any hard hat provided?",
+        "options": [
+            {"label": "A", "text": "It is CE or UKCA marked", "is_correct": true},
+            {"label": "B", "text": "It is less than 5 years old", "is_correct": false},
+            {"label": "C", "text": "It is less than 1 year old", "is_correct": false},
+            {"label": "D", "text": "It is less than 2 years old", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When using personal protective equipment (PPE) legally you must do which of the following?",
+        "options": [
+            {"label": "A", "text": "Not interfere with it or misuse it", "is_correct": true},
+            {"label": "B", "text": "Replace it at your own expense if it is damaged", "is_correct": false},
+            {"label": "C", "text": "Return it to the manufacturer when damaged", "is_correct": false},
+            {"label": "D", "text": "Clean it properly once a week", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If it is necessary for an employee to use personal protective equipment, who has a duty to provide it?",
+        "options": [
+            {"label": "A", "text": "The trade union", "is_correct": false},
+            {"label": "B", "text": "The employee", "is_correct": false},
+            {"label": "C", "text": "The employer", "is_correct": true},
+            {"label": "D", "text": "The principal contractor", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When should a safety helmet be worn on site?",
+        "options": [
+            {"label": "A", "text": "At all times unless there is no foreseeable risk of injury to the head other than by falling", "is_correct": true},
+            {"label": "B", "text": "When you are out in the open air", "is_correct": false},
+            {"label": "C", "text": "When walking to and from a place of work", "is_correct": false},
+            {"label": "D", "text": "Only when something may fall", "is_correct": false}
+        ]
+    },
+    {
+        "question": "A colleague has drilled holes in the top of their safety helmet because the weather is hot. Is this:",
+        "options": [
+            {"label": "A", "text": "Acceptable if the holes are small", "is_correct": false},
+            {"label": "B", "text": "Their choice", "is_correct": false},
+            {"label": "C", "text": "Acceptable", "is_correct": false},
+            {"label": "D", "text": "In breach of legal requirements", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Who has a duty to provide PPE (Personal Protective Equipment) for use by an employee?",
+        "options": [
+            {"label": "A", "text": "The employer", "is_correct": true},
+            {"label": "B", "text": "The principal contractor", "is_correct": false},
+            {"label": "C", "text": "The employee", "is_correct": false},
+            {"label": "D", "text": "The client", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When would it be appropriate to wear a bump cap instead of a safety helmet?",
+        "options": [
+            {"label": "A", "text": "When there is no foreseeable risk of injury from falling or swinging objects", "is_correct": true},
+            {"label": "B", "text": "In warm weather", "is_correct": false},
+            {"label": "C", "text": "When working in excavations", "is_correct": false},
+            {"label": "D", "text": "When working on a ladder", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How can you protect your eyesight while working on site?",
+        "options": [
+            {"label": "A", "text": "By squinting", "is_correct": false},
+            {"label": "B", "text": "By not looking directly at what you are doing", "is_correct": false},
+            {"label": "C", "text": "By wearing the correct type of eye protection", "is_correct": true},
+            {"label": "D", "text": "By wearing sunglasses", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When is head protection required to be worn on a construction site to comply with the Personal Protective Equipment at Work Regulations?",
+        "options": [
+            {"label": "A", "text": "At all times except by those who are self-employed", "is_correct": false},
+            {"label": "B", "text": "Only when you feel like it", "is_correct": false},
+            {"label": "C", "text": "At all times unless you are working on scaffold", "is_correct": false},
+            {"label": "D", "text": "At all times unless there is no foreseeable risk of injury to the head other than by falling", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Why should a high visibility vest be worn when working on roads?",
+        "options": [
+            {"label": "A", "text": "So road users and plant operators can see you", "is_correct": true},
+            {"label": "B", "text": "Because you were told to do so", "is_correct": false},
+            {"label": "C", "text": "Because it will keep you warm", "is_correct": false},
+            {"label": "D", "text": "So that your mates can see you", "is_correct": false}
+        ]
+    },
+	{
+    "question": "When considering what measures to take to protect people’s health and safety, PPE should always be regarded as:",
+    "options": [
+        {"label": "A", "text": "The last resort", "is_correct": true},
+        {"label": "B", "text": "The first line of defence", "is_correct": false},
+        {"label": "C", "text": "The best way to tackle the job", "is_correct": false},
+        {"label": "D", "text": "The only practical measure", "is_correct": false}
+		]
+	}
+]
+
+	

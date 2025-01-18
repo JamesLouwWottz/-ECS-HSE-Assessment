@@ -1,0 +1,245 @@
+[
+    {
+        "question": "Exposure to asbestos fibres may cause which one of the following?",
+        "options": [
+            {"label": "A", "text": "Dermatitis", "is_correct": false},
+            {"label": "B", "text": "Asthma", "is_correct": false},
+            {"label": "C", "text": "Glandular fever", "is_correct": false},
+            {"label": "D", "text": "Asbestosis", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Asbestos is suspected in the workplace during renovation. What should you do?",
+        "options": [
+            {"label": "A", "text": "Remove it", "is_correct": false},
+            {"label": "B", "text": "Paint it", "is_correct": false},
+            {"label": "C", "text": "Ignore it", "is_correct": false},
+            {"label": "D", "text": "Seek guidance immediately", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following statements about asbestos is TRUE?",
+        "options": [
+            {"label": "A", "text": "Asbestos is not really a hazard to health", "is_correct": false},
+            {"label": "B", "text": "White asbestos is safe to use", "is_correct": false},
+            {"label": "C", "text": "All asbestos can be a hazard to health", "is_correct": true},
+            {"label": "D", "text": "Only brown and blue asbestos are a hazard to health", "is_correct": false}
+        ]
+    },
+    {
+        "question": "While working, you discover material you think could be asbestos. What should you do?",
+        "options": [
+            {"label": "A", "text": "Clear any dust and fragments, put them in a bin, then carry on working", "is_correct": false},
+            {"label": "B", "text": "Inform the site nurse", "is_correct": false},
+            {"label": "C", "text": "Stop working immediately and report your suspicions to your supervisor", "is_correct": true},
+            {"label": "D", "text": "Dampen the material to prevent further dust being created, then carry on working", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Can you tell by the smell of a product whether it is likely to cause harm?",
+        "options": [
+            {"label": "A", "text": "No", "is_correct": true},
+            {"label": "B", "text": "Only within an enclosed space", "is_correct": false},
+            {"label": "C", "text": "Yes", "is_correct": false},
+            {"label": "D", "text": "Only if you have been trained", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How would you recognise a hazardous substance?",
+        "options": [
+            {"label": "A", "text": "By a symbol on the container", "is_correct": true},
+            {"label": "B", "text": "By its smell", "is_correct": false},
+            {"label": "C", "text": "The colour of the label on the container", "is_correct": false},
+            {"label": "D", "text": "It will be in a suitable container", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following does NOT cause skin problems?",
+        "options": [
+            {"label": "A", "text": "Bitumens", "is_correct": false},
+            {"label": "B", "text": "Solvents", "is_correct": false},
+            {"label": "C", "text": "Asbestos", "is_correct": true},
+            {"label": "D", "text": "Epoxy resins", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When an assessment of hazardous substances has been carried out under the COSHH Regulations, the risks and control measures should be explained to:",
+        "options": [
+            {"label": "A", "text": "The operatives using the substance", "is_correct": true},
+            {"label": "B", "text": "All employees on site", "is_correct": false},
+            {"label": "C", "text": "The accounts department", "is_correct": false},
+            {"label": "D", "text": "The person in charge of the stores", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If your hands are very dirty, what should you use to get them clean?",
+        "options": [
+            {"label": "A", "text": "White spirit", "is_correct": false},
+            {"label": "B", "text": "Paraffin", "is_correct": false},
+            {"label": "C", "text": "Soap and water", "is_correct": true},
+            {"label": "D", "text": "Thinners", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The presence of rats on site creates a risk of catching Weil’s disease. What is the EASIEST PRACTICAL MEASURE to discourage the presence of rats?",
+        "options": [
+            {"label": "A", "text": "Avoid leaving scraps of food lying about", "is_correct": true},
+            {"label": "B", "text": "Lay traps containing rat poison", "is_correct": false},
+            {"label": "C", "text": "Contact the local Environmental Health Officer", "is_correct": false},
+            {"label": "D", "text": "Bring a large cat on site", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Why is personal hygiene so important?",
+        "options": [
+            {"label": "A", "text": "So you don’t smell", "is_correct": false},
+            {"label": "B", "text": "Because the COSHH regulations require it", "is_correct": false},
+            {"label": "C", "text": "To protect your own and others’ health", "is_correct": true},
+            {"label": "D", "text": "To stop you catching something nasty", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you have been handling lead, how is it most likely to get into your blood stream?",
+        "options": [
+            {"label": "A", "text": "By not wearing safety goggles", "is_correct": false},
+            {"label": "B", "text": "By not reporting the matter to the HSE", "is_correct": false},
+            {"label": "C", "text": "By not using the correct safety footwear", "is_correct": false},
+            {"label": "D", "text": "By not washing your hands before eating", "is_correct": true}
+        ]
+    },
+    {
+        "question": "The number of toilets provided on site depends on:",
+        "options": [
+            {"label": "A", "text": "The type of work being completed", "is_correct": false},
+            {"label": "B", "text": "The number of people on site", "is_correct": true},
+            {"label": "C", "text": "How dirty the work is", "is_correct": false},
+            {"label": "D", "text": "The duration of the project", "is_correct": false}
+        ]
+    },
+	{
+        "question": "Which of the following is not required to be provided under the Construction (Design and Management) Regulations?",
+        "options": [
+            {"label": "A", "text": "Toilet facilities", "is_correct": false},
+            {"label": "B", "text": "Washing facilities", "is_correct": false},
+            {"label": "C", "text": "Hot food", "is_correct": true},
+            {"label": "D", "text": "Drinking water", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The extended use of powered hand-held tools and equipment may lead to which medical condition?",
+        "options": [
+            {"label": "A", "text": "Vibration white finger", "is_correct": true},
+            {"label": "B", "text": "Weil’s disease", "is_correct": false},
+            {"label": "C", "text": "Asbestosis", "is_correct": false},
+            {"label": "D", "text": "Dermatitis", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What must your employer do if the daily personal noise exposure is at or exceeds 85 db(A)?",
+        "options": [
+            {"label": "A", "text": "Provide hearing protection to those employees who ask for it", "is_correct": false},
+            {"label": "B", "text": "Issue hearing protection to those exposed and ensure that it is worn", "is_correct": true},
+            {"label": "C", "text": "Tell employees to buy their own hearing protection", "is_correct": false},
+            {"label": "D", "text": "Report it to the Health and Safety Executive", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What are the lower and upper action values with regard to daily personal noise exposure, as defined in the Control of Noise at Work Regulations 2005?",
+        "options": [
+            {"label": "A", "text": "85 dB(A) and 90 dB(A)", "is_correct": false},
+            {"label": "B", "text": "80 dB(A) and 85 dB(A)", "is_correct": true},
+            {"label": "C", "text": "70 dB(A) and 80 dB(A)", "is_correct": false},
+            {"label": "D", "text": "75 dB(A) and 85dB(A)", "is_correct": false}
+        ]
+    },
+    {
+        "question": "At or above what level of daily personal noise exposure does an employer have to provide hearing protection if it is requested by an employee?",
+        "options": [
+            {"label": "A", "text": "90 dB(A)", "is_correct": false},
+            {"label": "B", "text": "95 dB(A)", "is_correct": false},
+            {"label": "C", "text": "80 dB(A)", "is_correct": true},
+            {"label": "D", "text": "85 dB(A)", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The effects of damage to your hearing by long-term exposure to high noise levels:",
+        "options": [
+            {"label": "A", "text": "Can be corrected by an operation", "is_correct": false},
+            {"label": "B", "text": "Are permanent", "is_correct": true},
+            {"label": "C", "text": "Will be reduced when you change jobs", "is_correct": false},
+            {"label": "D", "text": "Can be reversed to near normal with time", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Hearing protection should be worn:",
+        "options": [
+            {"label": "A", "text": "In designated areas", "is_correct": true},
+            {"label": "B", "text": "In noisy internal areas only", "is_correct": false},
+            {"label": "C", "text": "At any workplace", "is_correct": false},
+            {"label": "D", "text": "Only on building sites", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Wearing suitable hearing protection:",
+        "options": [
+            {"label": "A", "text": "Stops you hearing distracting conversations", "is_correct": false},
+            {"label": "B", "text": "Stops you hearing all noise", "is_correct": false},
+            {"label": "C", "text": "Brings noise down to an acceptable level", "is_correct": true},
+            {"label": "D", "text": "Repairs damaged hearing", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following is one of the recommended means of protecting your hearing?",
+        "options": [
+            {"label": "A", "text": "Rolled tissue paper", "is_correct": false},
+            {"label": "B", "text": "Cotton wool pads", "is_correct": false},
+            {"label": "C", "text": "Soft cloth pads", "is_correct": false},
+            {"label": "D", "text": "Ear defenders", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following would NOT reduce the risks from hand-arm vibration when using a hammer action tool?",
+        "options": [
+            {"label": "A", "text": "Selecting the lowest vibration tool that is suitable and which can do the work efficiently", "is_correct": false},
+            {"label": "B", "text": "Wearing gloves to keep the hands warm", "is_correct": false},
+            {"label": "C", "text": "Working as a team to share the work out", "is_correct": false},
+            {"label": "D", "text": "Making sure one person does all the work with the tool", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following animals can carry Weil’s disease?",
+        "options": [
+            {"label": "A", "text": "Snake", "is_correct": false},
+            {"label": "B", "text": "Sheep", "is_correct": false},
+            {"label": "C", "text": "Rat", "is_correct": true},
+            {"label": "D", "text": "Pig", "is_correct": false}
+        ]
+    },
+	{
+        "question": "You are most likely to catch Weil’s disease (Leptospirosis) if you:",
+        "options": [
+            {"label": "A", "text": "Work near wet ground, waterways or sewers", "is_correct": true},
+            {"label": "B", "text": "Work near air conditioning units", "is_correct": false},
+            {"label": "C", "text": "Fix showers or baths", "is_correct": false},
+            {"label": "D", "text": "Drink water from a standpipe", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What should you do if the toilets on your site are continually dirty?",
+        "options": [
+            {"label": "A", "text": "Ignore the problem – it's normal on a construction site", "is_correct": false},
+            {"label": "B", "text": "Make sure you tell someone who can sort it out", "is_correct": true},
+            {"label": "C", "text": "Find some cleaning materials and clean it up yourself", "is_correct": false},
+            {"label": "D", "text": "Ask in a nearby cafe or pub if you can use their toilets", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Excessive sunlight on bare skin can cause which serious health problem?",
+        "options": [
+            {"label": "A", "text": "Dermatitis", "is_correct": false},
+            {"label": "B", "text": "Rickets", "is_correct": false},
+            {"label": "C", "text": "Acne", "is_correct": false},
+            {"label": "D", "text": "Skin cancer", "is_correct": true}
+        ]
+    }
+]

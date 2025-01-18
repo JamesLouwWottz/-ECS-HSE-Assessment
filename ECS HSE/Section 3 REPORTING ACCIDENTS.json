@@ -1,0 +1,290 @@
+[
+    {
+        "question": "What should you ensure if you suffer an injury through a manual handling operation?",
+        "options": [
+            {"label": "A", "text": "You get paid for the job", "is_correct": false},
+            {"label": "B", "text": "The injury is recorded", "is_correct": true},
+            {"label": "C", "text": "You get help and carry on working", "is_correct": false},
+            {"label": "D", "text": "You take time off work", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Why should a serious accident be reported to the enforcing authority?",
+        "options": [
+            {"label": "A", "text": "It helps the site find out what caused it", "is_correct": false},
+            {"label": "B", "text": "It is a legal requirement", "is_correct": true},
+            {"label": "C", "text": "So that the site manager can see who is to blame", "is_correct": false},
+            {"label": "D", "text": "So that the company will be held responsible", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What immediate action should you take if you suffer an injury through carrying a load?",
+        "options": [
+            {"label": "A", "text": "Advise your doctor of your injury", "is_correct": false},
+            {"label": "B", "text": "Tell your supervisor or employer", "is_correct": true},
+            {"label": "C", "text": "Tell your working companion", "is_correct": false},
+            {"label": "D", "text": "Carry on working as best you can", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Under RIDDOR, which one of the following must be reported to the enforcing authority?",
+        "options": [
+            {"label": "A", "text": "Accidents where the injured person wishes to make a claim", "is_correct": false},
+            {"label": "B", "text": "Fracture other than to fingers, thumbs or toes", "is_correct": true},
+            {"label": "C", "text": "All 'near misses' even if no one is hurt", "is_correct": false},
+            {"label": "D", "text": "All accidents causing injury", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following has the power to examine an accident record?",
+        "options": [
+            {"label": "A", "text": "An HSE inspector", "is_correct": true},
+            {"label": "B", "text": "An insurance company", "is_correct": false},
+            {"label": "C", "text": "A doctor", "is_correct": false},
+            {"label": "D", "text": "A workmate", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following should be recorded in the accident book following an accident?",
+        "options": [
+            {"label": "A", "text": "The date and time the accident occurred", "is_correct": true},
+            {"label": "B", "text": "Your date of birth", "is_correct": false},
+            {"label": "C", "text": "The weather conditions", "is_correct": false},
+            {"label": "D", "text": "Your National Insurance Number", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following accounts for most accidents each year on construction sites?",
+        "options": [
+            {"label": "A", "text": "Strikes by moving vehicles", "is_correct": false},
+            {"label": "B", "text": "Electrocution", "is_correct": false},
+            {"label": "C", "text": "Trench collapses", "is_correct": false},
+            {"label": "D", "text": "Slips, trips and falls", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT classified as a specified injury to a worker under RIDDOR?",
+        "options": [
+            {"label": "A", "text": "A fractured finger", "is_correct": true},
+            {"label": "B", "text": "A fractured arm", "is_correct": false},
+            {"label": "C", "text": "Amputation of a finger", "is_correct": false},
+            {"label": "D", "text": "A broken wrist", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following should you do if you witness a serious accident on site?",
+        "options": [
+            {"label": "A", "text": "Pretend you saw nothing", "is_correct": false},
+            {"label": "B", "text": "Say nothing in case you get in trouble", "is_correct": false},
+            {"label": "C", "text": "Discuss what to do with your workmates", "is_correct": false},
+            {"label": "D", "text": "Tell your supervisor what you saw happening", "is_correct": true}
+        ]
+    },
+    {
+        "question": "A workmate tells you that he witnessed an accident the previous day and the victim was taken to hospital. He asks you for advice on what he should do. Do you tell them to:",
+        "options": [
+            {"label": "A", "text": "Speak to the site nurse about what he saw", "is_correct": false},
+            {"label": "B", "text": "Tell their supervisor that they saw what happened", "is_correct": true},
+            {"label": "C", "text": "Telephone the hospital to find out how the injured person is", "is_correct": false},
+            {"label": "D", "text": "Say nothing to anyone in case they get someone in trouble", "is_correct": false}
+        ]
+    },
+	{
+        "question": "If a person at work suffers an injury (other than a specified injury) due to an accident at work, it is reportable under RIDDOR if they are incapacitated for work for:",
+        "options": [
+            {"label": "A", "text": "Over 1 day", "is_correct": false},
+            {"label": "B", "text": "Over 7 days", "is_correct": true},
+            {"label": "C", "text": "Over half a day", "is_correct": false},
+            {"label": "D", "text": "Over 2 days", "is_correct": false}
+        ]
+    },
+    {
+        "question": "What must an employer do with their accident records following completion of a construction project?",
+        "options": [
+            {"label": "A", "text": "Send them to the Health and Safety Executive", "is_correct": false},
+            {"label": "B", "text": "Destroy them on site with other non-essential documents", "is_correct": false},
+            {"label": "C", "text": "Keep them safe for at least three years", "is_correct": true},
+            {"label": "D", "text": "Send them to the employer’s insurance company", "is_correct": false}
+        ]
+    },
+    {
+        "question": "At work, who would you report a dangerous occurrence to?",
+        "options": [
+            {"label": "A", "text": "The emergency services", "is_correct": false},
+            {"label": "B", "text": "Your supervisor or employer", "is_correct": true},
+            {"label": "C", "text": "Another employee", "is_correct": false},
+            {"label": "D", "text": "The client for the project", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Following a reportable dangerous occurrence, when must the enforcing authority be informed?",
+        "options": [
+            {"label": "A", "text": "Within 5 days", "is_correct": false},
+            {"label": "B", "text": "Within 48 hours", "is_correct": false},
+            {"label": "C", "text": "Without delay", "is_correct": true},
+            {"label": "D", "text": "Within 24 hours", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Accidents causing any injury should always be recorded in:",
+        "options": [
+            {"label": "A", "text": "The site engineer’s day book", "is_correct": false},
+            {"label": "B", "text": "Your employer’s accident recording system", "is_correct": true},
+            {"label": "C", "text": "Your personal diary", "is_correct": false},
+            {"label": "D", "text": "The main contractor’s diary", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which one of the following is classified as a reportable occupational disease under RIDDOR?",
+        "options": [
+            {"label": "A", "text": "Mental disorder", "is_correct": false},
+            {"label": "B", "text": "Occupational asthma", "is_correct": true},
+            {"label": "C", "text": "Amputation", "is_correct": false},
+            {"label": "D", "text": "Influenza", "is_correct": false}
+        ]
+    },
+    {
+        "question": "When a person is injured at work, who should enter the details in the accident book?",
+        "options": [
+            {"label": "A", "text": "The injured person’s supervisor", "is_correct": false},
+            {"label": "B", "text": "The injured person or anyone acting for them", "is_correct": true},
+            {"label": "C", "text": "The site manager or engineer", "is_correct": false},
+            {"label": "D", "text": "The site safety manager", "is_correct": false}
+        ]
+    },
+    {
+        "question": "If you are involved in a minor accident at work, whose duty is it to report it to site management?",
+        "options": [
+            {"label": "A", "text": "Any witness to the accident", "is_correct": false},
+            {"label": "B", "text": "The police, fire, or ambulance who attend", "is_correct": false},
+            {"label": "C", "text": "It is your own responsibility", "is_correct": true},
+            {"label": "D", "text": "The site foreman should report it", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You have suffered an accident at work which has made you incapable of your normal work for over 7 days. Which of the following actions MUST be taken by your employer?",
+        "options": [
+            {"label": "A", "text": "The emergency services are asked to attend the site", "is_correct": false},
+            {"label": "B", "text": "The local hospital is informed", "is_correct": false},
+            {"label": "C", "text": "The relevant enforcing authority is informed", "is_correct": true},
+            {"label": "D", "text": "A deduction is made from your wages for days lost", "is_correct": false}
+        ]
+    },
+    {
+        "question": "The collapse of scaffolding is only notifiable to the enforcing authority as a reportable dangerous occurrence when the scaffolding is which one of the following?",
+        "options": [
+            {"label": "A", "text": "Over 15 meters in height", "is_correct": false},
+            {"label": "B", "text": "Any height", "is_correct": false},
+            {"label": "C", "text": "Over 10 meters in height", "is_correct": false},
+            {"label": "D", "text": "Over 5 meters in height", "is_correct": true}
+        ]
+    },
+	{
+        "question": "If there is a fatal accident on site, when must the Health and Safety Executive be informed?",
+        "options": [
+            {"label": "A", "text": "Without delay", "is_correct": true},
+            {"label": "B", "text": "Within 10 days", "is_correct": false},
+            {"label": "C", "text": "Within 7 days", "is_correct": false},
+            {"label": "D", "text": "Within 5 days", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Under which circumstances should an accident be recorded in the site’s accident book?",
+        "options": [
+            {"label": "A", "text": "When an accident causes damage to plant or equipment", "is_correct": false},
+            {"label": "B", "text": "Only when a person is injured and will be off work for more than seven days", "is_correct": false},
+            {"label": "C", "text": "When the injury is serious enough for first aid to be needed", "is_correct": false},
+            {"label": "D", "text": "When an accident causes injury to an employee while at work", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Which of the following has to be entered into the accident book?",
+        "options": [
+            {"label": "A", "text": "All accidents causing any damage", "is_correct": false},
+            {"label": "B", "text": "All accidents causing an injury", "is_correct": true},
+            {"label": "C", "text": "Only accidents causing serious injury", "is_correct": false},
+            {"label": "D", "text": "Only accidents causing time off work", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Under which circumstances must injury accidents be recorded in the accident book?",
+        "options": [
+            {"label": "A", "text": "Only if you break a bone", "is_correct": false},
+            {"label": "B", "text": "Only if you have time off work", "is_correct": false},
+            {"label": "C", "text": "Any time they occur", "is_correct": true},
+            {"label": "D", "text": "Only if you need to go to hospital", "is_correct": false}
+        ]
+    },
+    {
+        "question": "An entry must be made in the accident book when:",
+        "options": [
+            {"label": "A", "text": "The person has been off sick for over seven days", "is_correct": false},
+            {"label": "B", "text": "Management thinks it is appropriate", "is_correct": false},
+            {"label": "C", "text": "An accident causes personal injury to an employee", "is_correct": true},
+            {"label": "D", "text": "The severity of the accident may result in a compensation claim", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following MUST be recorded in an accident book after you have had an accident?",
+        "options": [
+            {"label": "A", "text": "Your National Insurance number", "is_correct": false},
+            {"label": "B", "text": "Your date of birth", "is_correct": false},
+            {"label": "C", "text": "Your occupation", "is_correct": true},
+            {"label": "D", "text": "Your phone number", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Which of the following can you learn from an accident?",
+        "options": [
+            {"label": "A", "text": "A combination of human error and mechanical failure always causes injury", "is_correct": false},
+            {"label": "B", "text": "Ideas on how you would prevent it happening again", "is_correct": true},
+            {"label": "C", "text": "That mechanical failures are most dangerous", "is_correct": false},
+            {"label": "D", "text": "How human error is always a cause", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Could making an entry in the accident book help you if you later make a claim for compensation?",
+        "options": [
+            {"label": "A", "text": "Only if it is a serious injury", "is_correct": false},
+            {"label": "B", "text": "No", "is_correct": false},
+            {"label": "C", "text": "Only in the event of a fatality", "is_correct": false},
+            {"label": "D", "text": "Yes", "is_correct": true}
+        ]
+    },
+    {
+        "question": "Why is it important to report ‘near miss’ accidents to your employer?",
+        "options": [
+            {"label": "A", "text": "It’s the law", "is_correct": false},
+            {"label": "B", "text": "To make the figures look good", "is_correct": false},
+            {"label": "C", "text": "So lessons can be learned, preventing an accident next time", "is_correct": true},
+            {"label": "D", "text": "So that someone can be disciplined", "is_correct": false}
+        ]
+    },
+    {
+        "question": "Who should you report serious accidents to?",
+        "options": [
+            {"label": "A", "text": "Your workmate", "is_correct": false},
+            {"label": "B", "text": "Your employer or supervisor", "is_correct": true},
+            {"label": "C", "text": "The police", "is_correct": false},
+            {"label": "D", "text": "The ambulance service", "is_correct": false}
+        ]
+    },
+	{
+        "question": "What is the aim of carrying out an accident investigation?",
+        "options": [
+            {"label": "A", "text": "To determine the cause(s) and prevent similar accidents", "is_correct": true},
+            {"label": "B", "text": "To establish what injuries were sustained", "is_correct": false},
+            {"label": "C", "text": "To find out who is at fault", "is_correct": false},
+            {"label": "D", "text": "To establish the cost of any damage incurred", "is_correct": false}
+        ]
+    },
+    {
+        "question": "You have witnessed a serious accident on your site and are interviewed by an HSE inspector. You should:",
+        "options": [
+            {"label": "A", "text": "Tell the inspector what your mates said you should say", "is_correct": false},
+            {"label": "B", "text": "Ask your supervisor what you should say to the inspector", "is_correct": false},
+            {"label": "C", "text": "Co-operate fully with the inspector and tell them exactly what you saw", "is_correct": true},
+            {"label": "D", "text": "Don’t tell them anything", "is_correct": false}
+        ]
+    }
+]
